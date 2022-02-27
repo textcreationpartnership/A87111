@@ -1,0 +1,2287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox caelorum. Predictions defended or, The voyce of the celestiall light, wherein is proved five things: 1 That the starres have received influences. 2 That they operate and worke upon sublunary things, according to the nature and quality of those received influences. 3 That God hath revealed those received influences to man. 4 That it is not unlawfull to predict according to the knowne nature and quality of those received influences. 5 That it is not unlawfull to call the starres by such and such names; as Pleyades, Arcturus, Orion, &amp;c. And divers places of the Scriptures opened and cleared. With a vindication of M. William Lilly his reputation against the Epirrhesian antagonists, in these times of discovery of new lights. By Henry Harflete, practitioner in the mathematickes.</title>
+            <author>Harflete, Henry, fl. 1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87111</idno>
+            <idno type="STC">Wing H767</idno>
+            <idno type="STC">Thomason 1179[1]</idno>
+            <idno type="STC">ESTC R208103</idno>
+            <idno type="EEBO-CITATION">99867096</idno>
+            <idno type="PROQUEST">99867096</idno>
+            <idno type="VID">119386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87111)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119386)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1179[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox caelorum. Predictions defended or, The voyce of the celestiall light, wherein is proved five things: 1 That the starres have received influences. 2 That they operate and worke upon sublunary things, according to the nature and quality of those received influences. 3 That God hath revealed those received influences to man. 4 That it is not unlawfull to predict according to the knowne nature and quality of those received influences. 5 That it is not unlawfull to call the starres by such and such names; as Pleyades, Arcturus, Orion, &amp;c. And divers places of the Scriptures opened and cleared. With a vindication of M. William Lilly his reputation against the Epirrhesian antagonists, in these times of discovery of new lights. By Henry Harflete, practitioner in the mathematickes.</title>
+                  <author>Harflete, Henry, fl. 1653.</author>
+               </titleStmt>
+               <extent>[12], 59, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Mat. Walbancke,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Running title reads: Predicitons defended.</note>
+                  <note>Annotation on Thomason copy: "march 19th 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilly, William, 1602-1681 --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119386:1" rendition="simple:additions"/>
+            <p>Vox Coelorum.</p>
+            <p>PREDICTIONS
+defended:
+Or,
+The Voyce of the Celeſtiall
+Light, wherein is proved
+Five things:</p>
+            <list>
+               <item>1 That the Starres have received influences.</item>
+               <item>2 That they operate and worke upon ſub<g ref="char:EOLhyphen"/>lunary
+things, according to the nature
+and quality of thoſe received influences.</item>
+               <item>3 That God hath revealed thoſe received
+influences to man.</item>
+               <item>4 That it is not unlawfull to predict ac<g ref="char:EOLhyphen"/>cording
+to the knowne nature and quality
+of thoſe received influences.</item>
+               <item>5 That it is not unlawfull to call the Starres
+by ſuch and ſuch names; as Pleyades,
+Arcturus, Orion, &amp;c. And divers places of
+the Scriptures opened and cleared.</item>
+            </list>
+            <p>With a vindication of M. <hi>William
+Lilly</hi> his reputation againſt the
+Epirrheſian Antagoniſts, in theſe
+times of diſcovery of
+new Lights.</p>
+            <bibl>Pſalm. 19. 1.</bibl>
+            <q>The Heavens declare the glory of God<g ref="char:punc">▪</g> &amp;c.</q>
+            <p>By <hi>Henry Harflete,</hi> Practitioner in the
+Mathematickes.</p>
+            <p>Imprinted at London for <hi>Mat. Walbancke.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119386:2"/>
+            <pb facs="tcp:119386:2"/>
+            <head>To the Right Wor<g ref="char:EOLhyphen"/>ſhipfull
+Iohn Boys of the
+Honourable Society of Graies
+Inne Eſquire, Counſellor at Law,
+one of the Deputy Lieutenants of the County
+Kent, and one of the Members of the
+Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>Right Worſhipfull:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen <hi>Appolonius</hi> deſi<g ref="char:EOLhyphen"/>red
+<hi>Veſpaſian</hi> the Em<g ref="char:EOLhyphen"/>perour,
+that he would
+give entrance and ac<g ref="char:EOLhyphen"/>ceſſe
+to <hi>Dion,</hi> and <hi>Euphrates,</hi> two
+Philoſophers, he thus anſwered;
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+I have my Gates alwaies open to
+Phiſoſophers; but even my very
+breaſt is open to thee. Let your
+Gates be open to all true lovers
+of <hi>Arts</hi> and <hi>Sciences,</hi> that ſo lear<g ref="char:EOLhyphen"/>ning
+may be advanced, and its
+lovers <hi>encouraged;</hi> and let your
+<pb facs="tcp:119386:3"/>
+eares be open to the <hi>Parliaments</hi>
+ſervitours, that ſo <hi>deſert</hi> may be
+rewarded, and the laborious <hi>ani<g ref="char:EOLhyphen"/>mated.</hi>
+I have laboured <hi>day</hi> and
+<hi>night</hi> in the Parliaments Service,
+and have had ſome encourage<g ref="char:EOLhyphen"/>ment
+from your Worſhip, and
+other of the Right Worſhipfull
+Deputy Lievtenants, as likewiſe
+from Captaine <hi>Andrew Ball</hi> at
+Walmer Caſtle, to whom I am
+not unthankfull; but I muſt con<g ref="char:EOLhyphen"/>feſſe
+I have found ſlight reſpects
+of ſome, who have been to me
+ingrate; that was my comfort,
+this my grief.<note place="margin">As <hi>Walmer</hi> n Kenr.</note> Now go on (Right
+Worſhipfull) with truth, equity,
+and juſtice, that God may bleſſe
+your great deſigns and weighty
+affairs for <hi>Englands Parliament.</hi>
+            </p>
+            <closer>So prayeth 
+<signed>your Worſhips humble devoted. Henry Harflete.</signed>
+            </closer>
+         </div>
+         <div type="to_the_indifferent_reader">
+            <pb facs="tcp:119386:3"/>
+            <head>To the
+Indifferent Reader.</head>
+            <opener>
+               <salute>Reader:</salute>
+            </opener>
+            <p>I Know the World in its <hi>Iron Age</hi>
+is growne ſo <hi>judicious,</hi> eſpecially
+in <hi>ſelf-conceit,</hi> as that there be
+more <hi>cenſorious</hi> then <hi>ſententious</hi> Rea<g ref="char:EOLhyphen"/>ders.
+Let thy <hi>charitable reading</hi> pre<g ref="char:EOLhyphen"/>cede
+thy <hi>prejudicate opinion;</hi> then <hi>feare</hi>
+I not the <hi>ſentence</hi> of the <hi>wiſe,</hi> neither
+<hi>care I</hi> for the <hi>cenſure</hi> of the fooliſh.</p>
+            <closer>
+               <signed>Thine neither at thy beſt nor
+worſt cenſures. Henry Harflete.</signed>
+            </closer>
+         </div>
+         <div type="to_astronomers">
+            <pb facs="tcp:119386:4"/>
+            <head>To all Aſtronomers,
+Aſtrologers, to all reall
+Maſters of Arts, and to all
+true lovers of the Arts
+and Sciences.</head>
+            <p>THe <hi>Arts</hi> and <hi>Sciences</hi>
+have formerly had<g ref="char:punc">▪</g> 
+               <hi>ac<g ref="char:EOLhyphen"/>ceptance</hi>
+of <hi>ſome,</hi> but
+now ſcarce <hi>admittance</hi>
+of <hi>any.</hi> The title of <hi>Maſter</hi> of <hi>Arts</hi>
+hath been with <hi>many</hi> onely <hi>titu<g ref="char:EOLhyphen"/>lar,</hi>
+but with very <hi>few</hi> truly <hi>reall.</hi>
+It is an errour in the <hi>vulgar</hi> to
+thinke, that a <hi>Pone manum in
+in manum magiſtri</hi> with a <hi>turn'd
+hood</hi> will <hi>compleat</hi> a <hi>Maſter</hi> of
+<hi>Arts:</hi> Though he hath no other
+knowledge in him then a little
+<hi>Logicke, Phiſick,</hi> and <hi>Metaphy<g ref="char:EOLhyphen"/>ſicks,</hi>
+no great matter for <hi>Ethica.</hi>
+A little <hi>ad regendos mores</hi> with
+<pb facs="tcp:119386:4"/>
+ſome favour and affection will give
+him an <hi>affirmative certificate,</hi>
+               <note place="margin">
+                  <hi>Wingham</hi> combina<g ref="char:EOLhyphen"/>tion Ma<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a great God above &amp;c.</note>
+and that will be ſure to carry him
+from the Lyon in <hi>Wingham</hi> to
+<hi>Syon-Colledge</hi> in <hi>London:</hi> He
+is then ſufficiently read in Logick
+and Philoſophy to make him fit for
+the <hi>Pulpit,</hi> and to cry down <hi>Aſtro<g ref="char:EOLhyphen"/>nomy,</hi>
+and <hi>Aſtrology,</hi> though he
+knowes not what <hi>Aſtronomy</hi> and
+<hi>Aſtrology</hi> meanes no more then a
+<hi>Cobler</hi> of two—&amp;c.<note place="margin">
+                  <hi>Kekerm.</hi> In praefat. Aſtronom.</note> whereas I
+can ſend him to his <hi>Primate Ke<g ref="char:EOLhyphen"/>kerman</hi>
+to learne how neceſſary
+<hi>Aſtronomy</hi> and all the Liberall
+<hi>Arts</hi> and <hi>Sciences</hi> are for a Di<g ref="char:EOLhyphen"/>vine.
+And for Aſtrology I can
+ſend him to his owne <hi>Orthodox
+Melancthon,</hi>
+               <note place="margin">
+                  <hi>Melanct.</hi> In praefat. in theoreti<g ref="char:EOLhyphen"/>cas novas Planet a<g ref="char:EOLhyphen"/>rum Georgei Purbrachii Simon Gry<g ref="char:EOLhyphen"/>nen.</note> and he will teach
+him how neceſſary <hi>Aſtrology</hi> is for
+all ſorts of people, both in <hi>priva<g ref="char:EOLhyphen"/>tis</hi>
+and <hi>publicis,</hi> for <hi>private</hi> and
+<hi>publike</hi> uſes. Firſt, for private
+uſes, and that firſt in <hi>Medendo,</hi>
+for Phyſitians. 2. <hi>Ad regendos
+<pb facs="tcp:119386:5"/>
+mores. 3. Ad deligenda ſtudia,</hi>
+for a man in electing his Vocation,
+and this he adds, <hi>Plurimum refert
+intelligere quo quem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> natura
+ducat;</hi> It is a matter of great con<g ref="char:EOLhyphen"/>ſequence
+to underſtand, to what
+faculty nature it ſelfe doth leade a
+mans inclination; and, 4. <hi>Con<g ref="char:EOLhyphen"/>ducit
+tempeſtatum obſervatio
+ad aeconomiam,</hi> the obſervation
+of tempeſts is very expedient for a
+family; And 2. For publike uſes,
+<hi>Exiſtunt ut in rebus publicis fa<g ref="char:EOLhyphen"/>tales
+tempeſtates, in quibus ad<g ref="char:EOLhyphen"/>moniti
+ab hac arte, multa provi<g ref="char:EOLhyphen"/>dere
+poſſunt vel ad cavenda, vel
+ad mitiganda pericula: Saepè enim
+fata conſilio in melius flecti que<g ref="char:EOLhyphen"/>unt,
+ſaepè fatorum ſaevitiam le<g ref="char:EOLhyphen"/>nit
+Deus, placatus piorum votis.
+Quare haec quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> gravis cauſa
+fuerit, rerum futurarum ſignifi<g ref="char:EOLhyphen"/>cationes
+animadvertendi; Pro<g ref="char:EOLhyphen"/>deſt
+enim co<g ref="char:cmbAbbrStroke">̄</g>monefieri homines
+atrocibus ſiderum minis, ut a
+<pb facs="tcp:119386:5"/>
+Deo opem implorent: Deinde
+ut bonitatem Dei magis agnoſ<g ref="char:EOLhyphen"/>cant,
+cum viderint aliquam eſſe
+ſuperiorem ac meliorem natu<g ref="char:EOLhyphen"/>ram
+ſideribus, quae triſtes ſignifi<g ref="char:EOLhyphen"/>cationes
+mitigat, &amp;c.</hi> and ſo he
+goes forward: <hi>Nec eo detrahen<g ref="char:EOLhyphen"/>da
+eſt arti fides quia aut artifi<g ref="char:EOLhyphen"/>ces
+aliqui inepti ſunt, aut non
+omnes eventus humani in arte
+monſtrantur: ſunt enim &amp; aliae
+quaedam praeter ſidera eventu<g ref="char:EOLhyphen"/>um
+cauſae, &amp;c.</hi> I write to them
+that are underſtanding, and there<g ref="char:EOLhyphen"/>fore
+I hope I need not beſtow the
+paines to tranſlate. Now what
+ſome have objected to me out af
+<hi>Ulpian,</hi> alleadging his ſeventh
+Booke, <hi>De officio proconſulis,</hi>
+where they ſay, That the <hi>Roman</hi>
+Senate made Lawes and Decrees
+againſt thoſe whom they called
+<hi>Mathematici &amp; Vaticinatores.</hi>
+I ſhall anſwer briefly. Firſt, let
+them conſider what the <hi>Mathe<g ref="char:EOLhyphen"/>matici</hi>
+               <pb facs="tcp:119386:6"/>
+were. They were ſuch as
+were condemned by the Law of
+<hi>Moſes,</hi> in <hi>Deut.</hi> 18. as I have
+ſhewed in the enſuing diſcourſe;
+they did prognoſticate by Magicall
+and ſuperſtitious Sorceries, and
+by much abominable meanes, and
+therefore they were prejudiciall to
+the flouriſhing eſtate of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi>
+Empire:<note place="margin">A<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. Gell. 1 Lib. nat. Atticae.</note> ſee what <hi>Gellius</hi>
+ſaith, <hi>Vulgus quod gentilitio
+vocabulo Chaldaeos dicere oper<g ref="char:EOLhyphen"/>tet,
+eos Mathematicos vocat.</hi>
+And ſecondly, their Divinations,
+and Prognoſtications were forbid<g ref="char:EOLhyphen"/>den,
+as found falſe and deceitfull
+by reaſon the Art was very unper<g ref="char:EOLhyphen"/>fect:
+untill <hi>Ptolomy</hi> his time, in
+the time of the Raigne of <hi>Anto<g ref="char:EOLhyphen"/>nius
+Pius,</hi> but now it hath recei<g ref="char:EOLhyphen"/>ved
+more approbation even by lon<g ref="char:EOLhyphen"/>ger
+experience and obſervation.
+But I leave theſe things to be well
+weighed by all that are wel-wiſhers
+to the Arts, and conſider what
+<pb facs="tcp:119386:6"/>
+ſtrange things have been by the
+Arts even without exorciſme, or
+dealing with the Devill as they
+call it. What did <hi>Boëtius?</hi> ſure he
+was no Conjurer, <hi>Caſſiodore</hi> tells
+him, that many (even) profound
+things have been done by him<g ref="char:punc">▪</g>
+How many ſtrange things have
+been done by the <hi>Perſpective,</hi> by
+the <hi>Statickes</hi> and <hi>Trochilicks<g ref="char:punc">▪</g>
+               </hi> See
+what <hi>Claudius Celeſtinus</hi> ſpeakes,
+even condemning thoſe who over<g ref="char:EOLhyphen"/>ſhot
+themſelves, not conſidering
+the meanes. <hi>Hodiè magnae litera<g ref="char:EOLhyphen"/>turae
+viros &amp; magnae reputatio<g ref="char:EOLhyphen"/>nis
+videmus opera quaedam quaſi
+miranda, ſupra naturam putare,
+de quibus in perſpectiva doctus
+cauſam faciliter reddidiſſet.</hi> I
+ſhall engliſh it. We ſee ſome men of
+great learning and reputation to
+judge certaine workes as miracu<g ref="char:EOLhyphen"/>lous,
+even above the power of na<g ref="char:EOLhyphen"/>ture,
+of which workes a man that
+hath knowledge in the Perſpective
+<pb facs="tcp:119386:7"/>
+may very eaſily give a reaſon. I
+could inſtance in many more, as
+what <hi>Archimedes</hi> did in his
+<hi>Sphere,</hi>
+               <note place="margin">Tuſcular. Queſt. 1.</note> of whom <hi>Tully</hi> makes
+mention; who did faſten the mo<g ref="char:EOLhyphen"/>vings
+of the ſeven Planets in a
+Sphere, he did as God who made
+the World, as <hi>Plato</hi> in <hi>Timaeo.</hi>
+But I ſhould not be tedious, I may
+have other occaſion hereafter. I
+now wiſh and pray, that God may
+bleſſe the ſtudies of the induſtri<g ref="char:EOLhyphen"/>ous
+in lawfull Arts.</p>
+            <closer>So prayeth
+<signed>A well-wiſher to the Mathematicks. Henry Harflete.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119386:7"/>
+            <head>Vox Coelorum.</head>
+            <head type="sub">Predictions defended:
+OR,
+The Voice of the Celeſtiall
+Lights, againſt the Epirrhe<g ref="char:EOLhyphen"/>ſian
+Antagoniſts in
+theſe times.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here are three ſorts of
+People, which are great
+enemies to <hi>Science</hi> and
+<hi>Knowledge,</hi> and to the
+<hi>noble Sciences</hi> of <hi>Aſtrono<g ref="char:EOLhyphen"/>my</hi>
+and <hi>Aſtrology:</hi>
+            </p>
+            <list>
+               <item>The
+<list>
+                     <item>1 Ignorant.</item>
+                     <item>2 Envious.</item>
+                     <item>3 Cenſorious.</item>
+                  </list>
+               </item>
+            </list>
+            <p>The <hi>Firſt</hi> doth <hi>ſlight,</hi> becauſe he
+<hi>knowes</hi> not.</p>
+            <p>
+               <pb n="2" facs="tcp:119386:8"/>
+The <hi>Second</hi> doth <hi>loath,</hi> becauſe he
+doth not <hi>love.</hi>
+            </p>
+            <p>The <hi>Third</hi> doth <hi>diſpraiſe,</hi> becauſe
+he is not well <hi>pleaſed</hi> with thoſe <hi>noble
+Arts</hi> and <hi>Sciences.</hi>
+            </p>
+            <p>The Firſt enemy is the</p>
+            <div n="ignorant" type="part">
+               <head>1 Ignorant</head>
+               <p>
+                  <hi>Man<g ref="char:punc">▪</g>
+                  </hi> Wherefore that ancient
+<hi>adage</hi> is even growne to a <hi>Proverbe:
+Scientia nullum habet inimicum niſi
+ignorantem.</hi> Though the word [<hi>nul<g ref="char:EOLhyphen"/>lum</hi>]
+be (according to the <hi>Logicks</hi>)
+an <hi>univerſall negative,</hi> yet it is not
+altogether <hi>excluſive,</hi> as though <hi>know<g ref="char:EOLhyphen"/>ledge</hi>
+had <hi>no</hi> other <hi>enemy,</hi> then the
+<hi>ignorant;</hi> but the meaning is, That
+Science hath <hi>no greater enemy</hi> then the
+<hi>ignorant man,</hi> becauſe he <hi>knowes</hi> not
+the benefit of it. Therefore it is that
+<hi>Plato</hi> breakes out with this exclama<g ref="char:EOLhyphen"/>tion,<note place="margin">Plato.</note>
+                  <hi>O ſcientia, quo modo te amarent
+homines, ſi ſcirent.</hi> Oh Science, how
+would men love thee, if they did but
+<hi>know</hi> thee. <hi>Man</hi> was created (ſaith
+<hi>Ariſtotle</hi>) to <hi>underſtand,</hi> and to <hi>doe,</hi>
+for <hi>knowledge</hi> begetteth <hi>Judgement,</hi>
+                  <pb n="3" facs="tcp:119386:8"/>
+and by <hi>Judgement</hi> men execute all
+good and vertuous actions. But the
+<hi>ignorant</hi> man <hi>knowes</hi> thus much, That
+the ſtudy of Arts and Sciences is a
+bottomleſſe Gulfe, and ſo difficult
+&amp; hard, that they which think to at<g ref="char:EOLhyphen"/>taine
+to a perfection, are many times
+foundred in the middeſt, and there<g ref="char:EOLhyphen"/>fore
+they account it better not to
+<hi>know</hi> much, yea, no more the the <hi>Oxe</hi>
+or <hi>Aſſe</hi> doth. It is enough for them
+to <hi>know,</hi> how old they are; and to
+keepe an <hi>Almanack</hi> in their pocket,
+to know what <hi>day</hi> of the <hi>Moneth</hi> it
+is, &amp;c.</p>
+               <p>Theſe be ſuch as <hi>Guido Bonatus</hi> re<g ref="char:EOLhyphen"/>prehends,<note place="margin">De utilita<g ref="char:EOLhyphen"/>te Aſtrono<g ref="char:EOLhyphen"/>miae.</note>
+who <hi>inveighs</hi> againſt ſuch,
+who ſay, <hi>Quòd ſcientia ſtellarum non
+poteſt ad aliquo ſciri:</hi> That none can
+attaine unto the knowledge of the
+Starres: And againſt thoſe that ſay,
+That the <hi>knowledge</hi> of the <hi>Starres</hi> is
+<hi>not profitable, but rather damnable;</hi> and
+againſt thoſe that flatly raile againſt
+the <hi>Judgements</hi> of <hi>Aſtronomy,</hi> being
+ignorant of the commodity of it, be<g ref="char:EOLhyphen"/>cauſe
+they thinke, it is not <hi>lucrative</hi>
+or <hi>gainefull,</hi> it comes not in with
+<pb n="4" facs="tcp:119386:9"/>
+                  <hi>advantage:</hi> I leave the ignorant man
+in his <hi>blindneſſe,</hi> and come to ſpeake
+a little with the</p>
+            </div>
+            <div n="envious" type="part">
+               <head>2 Envious</head>
+               <p>
+                  <hi>Man.</hi> He is another enemy, who
+(perhaps) may <hi>know ſomewhat,</hi> but
+he <hi>loths</hi> the <hi>Art,</hi> becauſe he loves
+not the <hi>Artiſt</hi>; his mouth is full of
+railing and bitterneſſe, full of detra<g ref="char:EOLhyphen"/>ction
+and ſlanders; <hi>Lingua facile vo<g ref="char:EOLhyphen"/>lat
+&amp; facilè violat</hi> ſaith <hi>Bernard.</hi> The
+tongue ſpeeds <hi>eaſily,</hi> but <hi>wounds deeply.</hi>
+His <hi>tongue</hi> can reach him, whom his
+<hi>hand</hi> cannot <hi>touch. Detractio eſt deni<g ref="char:EOLhyphen"/>gratio
+alienae famae per occulta verba<g ref="char:punc">▪</g>
+                  </hi>
+ſaith <hi>Aquinas:</hi> Detraction is a black<g ref="char:EOLhyphen"/>ing
+of a mans good name by ſecret
+words. Thus becauſe his <hi>weake</hi> and
+<hi>ſhallow capacity</hi> cannot dive into the
+Miſtery of <hi>Art,</hi> he ſtrikes the <hi>Artiſt</hi>
+through with the terme of a Conju<g ref="char:EOLhyphen"/>rer,
+a <hi>cunning man<g ref="char:punc">▪</g>
+                  </hi> a <hi>Hocus Pocus,</hi> &amp;c.
+Let him but contingently Predict
+according to the naturall operation
+of the ſecondary cauſes, though it be
+for the common good, then he is
+<pb n="5" facs="tcp:119386:9"/>
+termed, a <hi>Jugler,</hi> he juggles with the
+Parliament, he flatters, he deludes,
+&amp;c. I wiſh this pretty fellow would
+<hi>con</hi> his <hi>Leſſon</hi> in <hi>Tully.</hi> He ſhewes who
+is the beſt <hi>Predictor,</hi> the <hi>excellenteſt
+Southſayer,</hi> if I may ſo terme him;
+<hi>Augurque cum eſſet, dicere auſus eſt, op<g ref="char:EOLhyphen"/>timis
+auſpiciis eageri, quae pro Reipub.
+ſalute gererentur, quae contra Rempub. fierint,
+contra auſpicia fieri,</hi> Thoſe Pre<g ref="char:EOLhyphen"/>dictions
+are beſt<g ref="char:punc">▪</g> which tend to the
+ſafety of the Common-wealth. How
+baſely then doth this envious Malig<g ref="char:EOLhyphen"/>nant
+enemy ſeeke to ſcandalize the
+reputation of that worthy <hi>Aſtrologer,</hi>
+Maſter <hi>Lilly,</hi> in giving him, the be<g ref="char:EOLhyphen"/>fore-recited
+termes; when all his
+<hi>Predictions</hi> have tended to the good
+and ſafety of the <hi>Common-wealth,</hi>
+without the leaſt ſhew of flattery, ei<g ref="char:EOLhyphen"/>ther
+with the <hi>King</hi> or <hi>Parliament;</hi> and
+his advice good and wholſome. But
+I leave this <hi>envious</hi> Malignant, and
+come to ſalute the</p>
+            </div>
+            <div n="censorious" type="part">
+               <head>3 Cenſorious</head>
+               <p>
+                  <hi>Man.</hi> Who likes nothing but what
+<pb n="6" facs="tcp:119386:10"/>
+himſelfe <hi>acts.</hi> This is he that <hi>Me<g ref="char:EOLhyphen"/>lancthon</hi>
+calls <hi>Epicureus Theologus.</hi> He
+will diſpraiſe the <hi>art,</hi> becauſe it <hi>plea<g ref="char:EOLhyphen"/>ſeth</hi>
+him not: nay his <hi>blinde zeale,</hi>
+and <hi>fooliſh raſhneſſe</hi> ſhall <hi>cenſure</hi> that
+<hi>falſe</hi> and <hi>damnable,</hi> which himſelfe
+<hi>knowes</hi> not, but that <hi>God</hi> in his time
+may make it <hi>probable.</hi>
+               </p>
+               <p>
+                  <hi>Melancthon</hi> calls this, <hi>manifeſtum
+inſaniae genus,</hi> a manifeſt kind of mad<g ref="char:EOLhyphen"/>neſſe;
+and likewiſe a fooliſh <hi>arro<g ref="char:EOLhyphen"/>gancy.
+Arrogantia</hi> (ſaith he) <hi>cum
+ſummâ ſtultitia conjuncta eſt venati
+choragium aliquod gloriae ex inſectatione
+artium, quae ſunt gravi authoritate di<g ref="char:EOLhyphen"/>ctorum
+prudentium receptae.</hi> It is an
+arrogancy joyned with the greateſt
+folly to <hi>enveigh</hi> againſt thoſe Arts,
+which have been received by the au<g ref="char:EOLhyphen"/>thority
+and approbation of the wi<g ref="char:EOLhyphen"/>ſeſt
+Doctors. But, <hi>Ne ſutor ultrà crepi<g ref="char:EOLhyphen"/>dam.</hi>
+Let this devout cenſurer conſi<g ref="char:EOLhyphen"/>der
+what <hi>Alſledius, Kekerman, Me<g ref="char:EOLhyphen"/>lancthon,</hi>
+and divers other ſingular
+Divines have written in the praiſe of
+<hi>Aſtronomy<g ref="char:punc">▪</g> Melancthon</hi> in his Epiſtles
+to <hi>Simon Grineus Schonerus,</hi> and to
+the Preroration of <hi>Cardanus</hi> five
+<pb n="7" facs="tcp:119386:10"/>
+Bookes declares how farre wide this
+ignorant <hi>cenſurer</hi> alleadges the <hi>Scrip<g ref="char:EOLhyphen"/>ture</hi>
+againſt <hi>Aſtronomy<g ref="char:punc">▪</g>
+                  </hi> which makes
+fully for the <hi>Aſtronomer,</hi> as I ſhall
+ſhew in this enſuing diſcourſe;<note place="margin">
+                     <hi>Plato</hi> in Epinom is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> but
+let him conſider what <hi>Plato</hi> ſpeakes
+in commendation of Aſtronomy:
+<hi>Aſtronomia ſapientiſſimum quiddam eſt;</hi>
+nay he brings in a <hi>Nolite ignorare.</hi> Be
+not ignorant that Aſtronomy is a
+very high point of wiſdome; nay<g ref="char:punc">▪</g>
+[<hi>ſapientiſſimum</hi>] in the <hi>ſuperlative de<g ref="char:EOLhyphen"/>gree</hi>
+                  <g ref="char:punc">▪</g>
+the higheſt point of <hi>Wiſdome;</hi>
+and ſo it is indeed, for it doth in a
+very high manner ſet forth the glory
+of the Omnipotent Creator. Heare
+then the voyce of the Heavens, <hi>Pſal.
+19. 1. The heavens declare the glory of
+God,</hi>
+                  <note place="margin">Pſal. 19. 1.</note> 
+                  <hi>and the firmament ſheweth the
+worke of his hands,</hi> and that chiefly in
+ſetting forth three of his <hi>Attributes:</hi>
+                  <list>
+                     <item>His
+<list>
+                           <item>1 Power.</item>
+                           <item>2 Wiſdome.</item>
+                           <item>3 Goodneſſe.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1. His Power in their <hi>Creation,</hi>
+and that in theſe two conſiderations
+eſpecially.</p>
+               <p n="1">
+                  <pb n="8" facs="tcp:119386:11"/>
+1. In the <hi>manner</hi> of their Crea<g ref="char:EOLhyphen"/>tion,<note place="margin">See it more fully in <hi>Kekerman,</hi> his Pre<g ref="char:EOLhyphen"/>face to his Booke of Aſtrono<g ref="char:EOLhyphen"/>my.</note>
+he but ſpake the word and they
+were created; His <hi>Distum</hi> was pun<g ref="char:EOLhyphen"/>ctually
+and inſtantly returned with a
+<hi>factum,</hi> he but ſaid, <hi>Let there be light,
+and it was ſo,</hi> Gen. 1.</p>
+               <p n="2">2. In that theſe huge Bodies,
+as the Spheres are, doe keep their
+intervals and diſtances, one not in<g ref="char:EOLhyphen"/>croaching
+upon another, but keeping
+their due courſe.</p>
+               <p n="2">2. They ſet forth his <hi>Wiſdome,</hi> in
+their Government, as he hath Crea<g ref="char:EOLhyphen"/>ted
+them <hi>powerfully,</hi> ſo he governes
+them <hi>wiſely.</hi>
+               </p>
+               <p n="3">3. They ſet forth his <hi>Goodneſſe,</hi> in
+ordering and diſpoſing of them for
+the <hi>good</hi> of man; for he orders them
+for his owne glory, and diſpoſeth
+them for mans good, to be a benefit
+and comfort to mortall and ſinfull
+man. He ſweetly tempers and quali<g ref="char:EOLhyphen"/>fies
+their natures, that they aptly ad<g ref="char:EOLhyphen"/>miniſter
+a great benefit to man. He
+cauſes the ſweet influences of the
+<hi>Pleyades,</hi> and he keeps <hi>Orion</hi> within
+his limits and bounds, <hi>Iob</hi> 38. 31.
+God ſaid there to <hi>Job, Canſt thou
+binde the ſweet influences of the</hi> Pleya<g ref="char:EOLhyphen"/>des,
+<pb n="9" facs="tcp:119386:11"/>
+                  <hi>or looſe the bonds of</hi> Orion?</p>
+               <p>Where I ſhall prove theſe five points
+as briefly as I can.</p>
+               <p n="1">1. That the Starres have received In<g ref="char:EOLhyphen"/>fluences.</p>
+               <p n="2">2. That they operate and worke upon
+ſublunary things, according to the nature
+and quality of thoſe received influences.</p>
+               <p n="3">3. That God hath <hi>revealed</hi> thoſe re<g ref="char:EOLhyphen"/>ceived
+influences to <hi>man.</hi>
+               </p>
+               <p n="4">4. That it is not unlawfull to Pre<g ref="char:EOLhyphen"/>dict
+and Prognoſticate according to the
+knowne nature avd quality of thoſe recei<g ref="char:EOLhyphen"/>ved
+influences.</p>
+               <p n="5">5. That it is not unlawfull to call
+the Starres by ſuch and ſuch names, as
+<hi>Pleyades, Orion, Arcturus, &amp;c.</hi>
+               </p>
+               <p>Firſt, <hi>That the Starres have received
+Influences:</hi> For the opening of which
+confider theſe three things.
+<list>
+                     <item>1. That there be Influences.</item>
+                     <item>2. That the Starres have ſuch
+Influences.</item>
+                     <item>3. That they receive them from
+their Creator.</item>
+                  </list>
+               </p>
+               <div n="1" type="section">
+                  <p n="1">1. That there be Influences, <hi>where I
+<pb n="10" facs="tcp:119386:12"/>
+ſhall ſhew what</hi> an Influence <hi>is.</hi>
+                  </p>
+                  <p>Influxus eſt virtus Coeleſtis eſtellis &amp;
+coelorum motu oriens,<note place="margin">Influxus quid.</note> &amp; in infcriora
+deſcendens.</p>
+                  <p>An Influence is a Coeleſtiall vertue
+or power, ariſing out of the Starres
+and motion of the Heavens, deſcen<g ref="char:EOLhyphen"/>ding
+upon ſublunary things.</p>
+                  <p>I ſay, It is a Coeleſtiall vertue or
+power] for although all things are
+not governed by the <hi>influence</hi> of the
+<hi>Heavens,</hi> yet many and emminent
+changes doe happen both in the <hi>aire,</hi>
+and in the body of <hi>Man,</hi> whoſe Ori<g ref="char:EOLhyphen"/>ginall
+cauſe doth apparantly de<g ref="char:EOLhyphen"/>pend
+upon this Coeleſtiall vertue and
+power.</p>
+                  <p n="2">2. Ariſing out of the Starres and
+motion of the Heavens] as ſome<g ref="char:EOLhyphen"/>times
+the <hi>Influence</hi> is, helped forward
+through Diabolicall and wicked <hi>in<g ref="char:EOLhyphen"/>chantments,</hi>
+ſo oftentimes God is
+pleaſed to hinder the influentiall
+vertues of the Heavens at the <hi>Prayers</hi>
+of the <hi>faithfull.</hi> And the Prophet <hi>Je<g ref="char:EOLhyphen"/>remiah,
+cap.</hi> 10. 2. doth warne us,
+That we ſhould not be afraid of the
+ſignes of the Heavens, as you ſhall
+perceive, and the meaning in the
+<pb n="11" facs="tcp:119386:12"/>
+Objections anon, and ſo the true
+ſcope and meaning of the words. It
+is ſure that ſo much credit is not to
+be given to ſuch Signes, as the vulgar
+and credulous Aſtrologer doth ima<g ref="char:EOLhyphen"/>gine;
+neither is their vertue and pow<g ref="char:EOLhyphen"/>er
+altogether to be rejected, negle<g ref="char:EOLhyphen"/>cted<g ref="char:punc">▪</g>
+and deſpiſed, ſeeing we have
+many and moſt notable examples left
+us upon Record<g ref="char:punc">▪</g> which ſhew how
+prevalent the Coeleſtiall influences
+have been upon ſome ſublunary crea<g ref="char:EOLhyphen"/>tures,
+which I ſhall ſhew hereafter.</p>
+                  <p n="3">3 <hi>Deſcending upon ſublunary things.</hi>]
+Though I ſay, theſe influences de<g ref="char:EOLhyphen"/>ſcend,
+&amp;c. and they encline a man
+more to motion, and ſo apt to per<g ref="char:EOLhyphen"/>turbations<g ref="char:punc">▪</g>
+yet they doe not com<g ref="char:EOLhyphen"/>pell
+through any neceſſity; for the
+free <hi>minde</hi> of man is not ſubjected,
+and (as it were) <hi>enſlaved</hi> to any po<g ref="char:EOLhyphen"/>ſitions
+of the Starres; for, <hi>Sapiens
+dominabitur aſtris.</hi> It is certaine that a
+wiſe man may ſee farre by ſuch poſi<g ref="char:EOLhyphen"/>tions,
+and fore-ſee <hi>many things</hi> where<g ref="char:EOLhyphen"/>by
+he may be warned to <hi>prevent</hi> fu<g ref="char:EOLhyphen"/>ture
+miſeries. An emminent example
+we read of <hi>Thales Mileſius,</hi> who was
+the firſt among the <hi>Grecians</hi> that was
+<pb n="12" facs="tcp:119386:13"/>
+called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Sapiens, a wiſe man,</hi> as
+<hi>Diogenes</hi> ſaith, and the firſt among
+them that found out the ſecrets and
+Myſteries of <hi>Aſtrology;</hi> by it he fore<g ref="char:EOLhyphen"/>told
+the Converſions and Ecclipſes of
+the Sunne:<note place="margin">Eudemus in Hiſtoria Aſtrologica</note> and <hi>Callimachus</hi> ſaith,
+he firſt found out <hi>
+                        <g ref="char:V">Ʋ</g>rſa minor,</hi> and the
+Starres about her, whereby the peo<g ref="char:EOLhyphen"/>ple
+of <hi>Phenicia</hi> did direct their Navi<g ref="char:EOLhyphen"/>gation.
+<hi>Tully, de Divinatione &amp; Ari<g ref="char:EOLhyphen"/>ſtotle,
+Lib. 1. Polic. cap.</hi> 7. reports of
+him, who by the Art of Aſtrology
+fore-ſeeing a great gearth of <hi>Olives,</hi>
+got into his hands a great quantity
+of Olives in <hi>Miletum &amp; Chium</hi> at a
+low rate,<note place="margin">In Mile<g ref="char:EOLhyphen"/>tum &amp; Chium.</note> which he ſold againe the
+next yeare in the time of the dearth
+at a very great price, whereby he
+grew exceeding rich, and whereby
+he did ſhew the worth and profit of
+Philoſophy, which men ſo little re<g ref="char:EOLhyphen"/>gard.
+And <hi>Pliny</hi> in his Naturall
+Hiſtory ſaith, That <hi>Solon,</hi> (who was
+called the wiſe Law-maker among
+the <hi>Athenians</hi>) did by the Eclipſes
+of the Sunne and Moone,<note place="margin">Eclipſes.</note> Prognoſti<g ref="char:EOLhyphen"/>cate
+the defects and ſubverſions of
+certaine States and Kingdoms in <hi>Aſia.</hi>
+                     <pb n="13" facs="tcp:119386:13"/>
+I could enumerate many examples;
+But how did they this? Did they
+deale immediatly with the Devill? I
+never read any ſuch thing but they
+did it <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> by their wiſe<g ref="char:EOLhyphen"/>dome,
+<hi>Ariſtotle</hi> (as it were) ex<g ref="char:EOLhyphen"/>pounds
+it, when he ſaith, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+through the Miſtory of <hi>Aſtro<g ref="char:EOLhyphen"/>logy,</hi>
+which ſhewes the <hi>effects</hi> from the
+the <hi>cauſes.</hi> Thus there be <hi>Influences<g ref="char:punc">▪</g>
+                     </hi>
+And the</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2 Starres have Influences</head>
+                  <p>'Tis plaine.<note place="margin">Iob 9. 9.</note> 
+                     <hi>Canſt thou bind the ſweet
+Influences</hi> of the <hi>Pleyades?</hi> and ſo
+Job<g ref="char:punc">▪</g> 9. 9. <hi>He maketh Pleyades</hi> and <hi>Ori<g ref="char:EOLhyphen"/>on.
+He maketh<g ref="char:punc">▪</g>
+                     </hi> that is, either 1. <hi>Crea<g ref="char:EOLhyphen"/>vit,</hi>
+he <hi>Created,</hi> or 2. he <hi>maketh,</hi> that
+is, <hi>facit operari,</hi> he gives them their
+<hi>influences</hi> or <hi>vertuall powers.</hi>
+                  </p>
+                  <p>
+                     <hi>Ariſtotle</hi> 1. Meteorolog. cap. 2, <hi>Eſt au<g ref="char:EOLunhyphen"/>tem neceſſairò mundus iſte ſuperois latio<g ref="char:EOLhyphen"/>nibus
+fere continuus; ut inde vis ejus
+univerſa regatur: Ea ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>quidem cauſa
+prima putanda omnibus eſt, unde motus
+principium exiſtit</hi> That World, (mea<g ref="char:EOLhyphen"/>ning
+the Elementall World) is ne<g ref="char:EOLhyphen"/>ceſſarily
+<pb facs="tcp:119386:14"/>
+almoſt next adjoyning to
+the ſupernall or heavenly motions,
+that from them all its power or influ<g ref="char:EOLhyphen"/>ence
+may be governed; for that of
+all men is thought to be the firſt cauſe
+from whom the beginning of motion
+comes, and that is from God, whom
+<hi>Ariſtotle</hi> calls <hi>Primus motor, &amp; ens en<g ref="char:EOLhyphen"/>tium,</hi>
+the firſt mover, and the being
+of beings.</p>
+                  <p>I doe thinke that no man is ſuch
+an idiot, or ignorant, but that he
+doth daily, even by experience finde,
+that mans body, and all other Ele<g ref="char:EOLhyphen"/>mentall
+bodies are altered, diſpoſed,
+and ordered according to the influ<g ref="char:EOLhyphen"/>ences
+and operations of the Sunne
+and Moone, and other Starres and
+Planets. Perſons that lye ſicke upon
+their Bed, even at the point of death
+have found this true, and that Phyſi<g ref="char:EOLhyphen"/>tians
+hath done them a pleaſure to
+looke up to the ſecond cauſes, as go<g ref="char:EOLhyphen"/>verned
+by God the firſt cauſe; and it
+hath pleaſed the firſt cauſe to give a
+bleſſing to the meanes.</p>
+                  <p>Paima Deus cauſa eſt, cauſae ſunt aſtra
+ſecunda, nil ſi prima vetat, cauſa ſecunda
+valet.</p>
+                  <p>
+                     <pb n="15" facs="tcp:119386:14"/>
+The firſt cauſe is <hi>God,</hi> the ſecond
+cauſe is the influence and powerfull
+working of the Planets, and Stars, &amp;
+heavenly Motions. If God who is the
+firſt cauſe hinder not, the ſecond
+cauſes will afford a favourable aſpect;
+that Phyſitian that obſerves not this
+may (unboubtedly ſend many to the
+<hi>Grave,</hi> though he may not have the
+honour to be advanced as <hi>Hamon</hi> was,
+<hi>Eſter</hi> 7. 10. But looke a little further
+into the tenth Chapter of that book,<note place="margin">Ariſtot. 1 Meteo<g ref="char:EOLhyphen"/>ral. cap. 10</note>
+and there you ſhall finde theſe words:
+<hi>Oporte igitur, ut horum principia ſuma<g ref="char:EOLhyphen"/>mus
+&amp; cauſas omnium ſimiliter. Princi<g ref="char:EOLhyphen"/>pium
+igitur vt movens, praecipuum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> &amp;
+amnium priimum, circulus ille eſt, in quo
+manifeſte ſalis, latio perſpicitur,</hi> to the
+very ſame effect he ſpeakes in 2 Lib.
+de Gen.<note place="margin">Ariſtot. lib. 2. De ger. &amp; cor. cap. 10.</note> &amp; corrup. cap. 10. <hi>Quocirca
+&amp; prima latio, ortus &amp; interitus cauſa
+non eſt, ſed obliqui circuli latio, ea nam<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+&amp; continua eſt, &amp; duobus motibus fit.</hi>
+The uppermoſt motion (which is the
+<hi>primum mobile,</hi> or the upper Spheare)
+is not the cauſe of Generation and
+corruption, but the motion of the
+oblique Circle, (which is the Zodi<g ref="char:EOLhyphen"/>acke)
+<pb n="16" facs="tcp:119386:15"/>
+and he gives a reaſon for it,
+for that is both continued, and is
+cauſed of two motions: and in his
+2 <hi>Lib. Phyſic. c.</hi> 2. he ſaith, That <hi>Ho<g ref="char:EOLhyphen"/>mo
+gener at hominem, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Sol;</hi> Man and
+the Sunne are the cauſe of mans Ge<g ref="char:EOLhyphen"/>neration,
+which can be no otherwiſe
+underſtood, but that God ſo ordered,
+that man who begets, and the ſecond
+cauſes have their influences and ver<g ref="char:EOLhyphen"/>tuall
+operations over the Nativity
+and birth of Man: This is no Hea<g ref="char:EOLhyphen"/>theniſh
+poſition, for no man can be
+ſo blind, but that he may ſee by ex<g ref="char:EOLhyphen"/>perience,
+(which is called the Miſtris
+of fooles) the <hi>vertuall operation</hi> and
+<hi>power</hi> of the <hi>Coelestiall</hi> bodies in and
+upon the foure Elements, and other
+bodies of them compoſed, whether
+perfectly or imperfectly, even by the
+guigance and government of their
+Creator.</p>
+                  <p>Authorities may be brought of
+three thouſand yeares antiquity and
+above of expert, wiſe, and godly men
+to prove this Poſition, which daily
+and hourely men may perceive by
+ſence and reaſon; yea and all Beaſts,
+<pb n="17" facs="tcp:119386:15"/>
+Frowers, Plants, Hearbes, Trees and
+Fruites doe ſhew by their actions and
+paſſions (if I may ſo terme them)
+both outward and inward.</p>
+                  <p>Thus they have influences, but
+from whence? even from him who
+gives life<g ref="char:punc">▪</g> motion, and being to all
+things, <hi>Acts</hi> 17. 28. and that is the
+third thing herein conſiderable. <hi>That
+the heavenly bodies have<g ref="char:punc">▪</g>
+                     </hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>2 Reccived their influences
+from God.</head>
+                  <p>In the 9. of <hi>Job.</hi> 9. and <hi>Amos</hi> 8.
+<hi>God</hi> is ſaid there to make <hi>Arcturus,</hi>
+                     <note place="margin">Job 9. 7.</note>
+                     <hi>Orion,</hi> and <hi>Pleyades;</hi> that is, <hi>God</hi> from
+the Creation makes them operative
+according to their influmentiall ver<g ref="char:EOLhyphen"/>tues
+which <hi>God</hi> hath given them; and
+that it is ſo the 7. verſe of the 9. of
+<hi>Job</hi> makes it to appeare, where God is
+ſaid <hi>to ſeale</hi> up the <hi>Starres;</hi> that is, he
+can <hi>ſeale</hi> up, or as <hi>Job</hi> 38. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1. <hi>reſtraine</hi>
+thoſe ſweet <hi>influences</hi> which he hath
+given them for the good and benefit
+of <hi>man.</hi>
+                  </p>
+                  <p>So <hi>Job</hi> 38. 27, 28. and Chap. 37. 11
+<pb n="18" facs="tcp:119386:16"/>
+God is ſaid there to <hi>make the Clouds</hi> to
+<hi>labour,</hi> to <hi>water the earth;</hi> or as the laſt
+Tranſlation renders it, <hi>by watering</hi> he
+<hi>wearieth the thick cloud.</hi>
+                  </p>
+                  <p>From hence then we may ſee the
+folly and ignorance of ſome confu<g ref="char:EOLhyphen"/>ted
+and condemned, who ſay, That
+the Starres have received no ſuch in<g ref="char:EOLhyphen"/>fluences,
+and that God hath given
+them no ſuch influentiall power; this
+is to ſay, That God doth not worke
+by his Creatures, as by his inſtruments
+and ſecondary cauſes; which is no
+better then <hi>Blaſphemy.</hi> Nay, ſome are
+ſo ſtupid and ignorant, that they can<g ref="char:EOLhyphen"/>not
+be perſwaded that any man can
+finde out the Diurnall motions of the
+Planets, or that their diſtance from
+the earth, their Magnitudes, and the
+like can be found by the Art of man;
+no inſtrument (they thinke<g ref="char:punc">▪</g>) can ſhew
+ſuch things as we talke and write of;
+no marvaile then they deny their in<g ref="char:EOLhyphen"/>fluences,
+which are daily objected to
+their <hi>ſence</hi> and reaſon: But let me tell
+them, that the whole frame and fa<g ref="char:EOLhyphen"/>brick
+of the Creatures of God both
+<hi>Coeleſtiall</hi> and <hi>Terreſtriall</hi> are to us as a
+<pb n="19" facs="tcp:119386:16"/>
+bright <hi>Glaſſe,</hi> in which they might (if
+they were not <hi>wilfully blind</hi>) ſee by
+<hi>reflection</hi> even <hi>radiations</hi> and beames,
+repreſenting the very image of Gods
+infinite Power, Wiſedome and good<g ref="char:EOLhyphen"/>neſſe,
+whereby we are taught to praiſe
+and glorifie our great <hi>God</hi> who hath
+made the Heaven to ſend ſuch ſweet
+influences downe upon the <hi>earth</hi> for
+the comfort and benefit of man, who
+was made after his owne image,
+<hi>Gen.</hi> 1. 27.</p>
+                  <p>Could the Heathens confeſſe this,
+and ſhall any who profeſſeth himſelfe
+a Chriſtian deny it? Could the very
+Heathen, who were judged onely by
+the light of nature finde out, and con<g ref="char:EOLhyphen"/>feſſe
+that the Starres and heavenly
+bodies have received influences from
+ſome higher Power, but what to call
+that Power they knew not; and ſhall
+we who live in the light of the Goſ<g ref="char:EOLhyphen"/>pell,
+and under the very beames of
+<hi>Grace,</hi> and the goodneſſe and mercy
+of a <hi>Great</hi> and good <hi>God</hi> looke upon
+the Heavens and Starres, as an Oxe or
+Aſſe; ſearch no further what they are,
+why Created, how they execute that
+<pb n="20" facs="tcp:119386:17"/>
+for which they were <hi>created;</hi> the due
+conſideration of this would make the
+ignorant (though otherwiſe zealous)
+Chriſtian to confeſſe (without any
+expoſition by an <hi>Allegory</hi>) with that
+Kingly Prophet, <hi>Pſal.</hi> 19. 1. The Hea<g ref="char:EOLhyphen"/>vens
+<hi>declare the glory of God,</hi> and the
+<hi>Firmament ſheweth his handy worke:</hi>
+even ſheweth that it is not idle, that
+God hath not given the Heavens <hi>influ<g ref="char:EOLhyphen"/>ences</hi>
+to lye ſtill and doe nothing, but
+if he hath given them influences, they
+doe, nay they muſt</p>
+               </div>
+               <div type="proposition">
+                  <head>2 Operate;</head>
+                  <p>And ſo I leave the firſt, and fall up<g ref="char:EOLhyphen"/>on
+the ſecond Propoſition.</p>
+                  <p>That the Starres and heavenly bodies
+doe operate upon ſublunary things, accor<g ref="char:EOLhyphen"/>ding
+unto the nature and quality of their
+received influences.</p>
+                  <p>This Propoſition is confirmed three
+waies.
+<list>
+                        <item>
+                           <hi>By</hi>
+                           <list>
+                              <item>1 Scripture.</item>
+                              <item>2 Reaſon.</item>
+                              <item>3 Experience.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>1 By Scripture, I ſhall name a few
+places inſtead of many.</p>
+                  <p>
+                     <pb n="21" facs="tcp:119386:17"/>
+                     <hi>Iob</hi> 38. 31. Theſe naturall operations
+are called there <hi>influences,</hi> the Greeke
+word is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>&amp;</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Super
+&amp; fluo;</hi> to ſlow into, or upon. They
+muſt have an Object to worke upon,
+otherwiſe it would be <hi>non-ſenſe</hi> to call
+them <hi>influence, Ier.</hi> 10. 13. when he ut<g ref="char:EOLhyphen"/>tereth
+his <hi>voice, there is a multitude of
+waters in the Heavens,</hi>
+                     <note place="margin">Pſal. 135. v. 7.</note> 
+                     <hi>and he cauſeth the
+vapours to aſcend from the ends of the
+earth; he maketh lightnings with raine</hi>
+(or for raine) <hi>and bringeth forth the
+winds out of his treaſures.</hi> Can the va<g ref="char:EOLhyphen"/>pours
+aſcend and gather together into
+a multitude of waters, and not operate?
+Doth God make it Lighten to cauſe
+raine, and doth he with-hold it? Doth
+<hi>Mercury</hi> aſpect with his fellowes, and
+doth not God moſt commonly <hi>bring
+forth the winds out</hi> of his Store-houſe?
+<hi>Pſal.</hi> 136. 8, 9. Did God make <hi>great
+Lights,</hi> the <hi>Sun to rule by day, and the
+Moone and Starres to rule by night?</hi> Can
+they <hi>rule</hi> and not <hi>operate according</hi> to
+their <hi>influentiall powers? Iob<g ref="char:punc">▪</g>
+                     </hi> 9. 7. God
+is ſaid there to <hi>ſeale</hi> up the Starres in
+his anger, to ſeale up their influences,
+that they ſhall not operate according
+<pb n="22" facs="tcp:119386:18"/>
+to their naturall and influentiall ver<g ref="char:EOLhyphen"/>tues,
+and this God doth to ſcourge a
+ſinfull Nation. Did he not ſeale up the
+Heavens, that it ſhould not raine,
+1 <hi>King.</hi> 18?</p>
+                  <p>And was not that <hi>Englands</hi> ſcourge?
+Did he not reſtraine the ſweet influen<g ref="char:EOLhyphen"/>ces
+of the <hi>Pleyades,</hi> not long ſince cau<g ref="char:EOLhyphen"/>ſing
+a ſenſible Dearth, that Corne was
+ſold at ten ſhillings a Buſhell, and
+many ſtarved for want of Bread in the
+City of <hi>London.</hi>
+                  </p>
+                  <p>The holy Ghoſt doth not ſay, He
+hath ſealed up the heavens that it ſhall
+not raine, but <hi>the Starres,</hi> to ſhew that
+they operate or not operate upon ſub<g ref="char:EOLhyphen"/>lunary
+things, as ſecondary cauſes
+according to the good pleaſure, will,
+and command of the firſt cauſe, which
+is God.</p>
+                  <p>I could inſtance in many more, but
+theſe ſhall ſuffice; I come to confirm it</p>
+                  <div n="reason" type="subsection">
+                     <head>2 By reaſon.</head>
+                     <p>I ſhall inſtead of many, give theſe
+two Reaſons why they muſt operate.</p>
+                     <p>1 Becauſe hereby they glorifie and
+<pb n="23" facs="tcp:119386:18"/>
+praiſe their <hi>Creator:</hi> It is the voice of
+the <hi>Celeſtiall Lights,</hi> to praiſe God,
+<hi>Job.</hi> 38. 7. when the <hi>Morning Stars
+ſang together,</hi> (or as the old Tranſlati<g ref="char:EOLhyphen"/>on,)
+<hi>When the Stars of the morning prai<g ref="char:EOLhyphen"/>ſed
+me together:</hi> Now how did they
+praiſe God? Even by declaring his
+wiſdome, power and goodneſſe; And
+how did they that? By manifeſting
+the ſame by their effectuall operation
+in working according to thoſe influ<g ref="char:EOLhyphen"/>entiall
+vertues God had given them:
+And then it followes, <hi>all the Sons of
+God ſhouted for joy,</hi> or as the old Tran<g ref="char:EOLhyphen"/>ſlation
+renders it, <hi>and all the children
+of God rejoyced.</hi> The children of <hi>God,</hi>
+meaning the <hi>Angels,</hi> ſo <hi>Iunius,</hi> and
+not that theſe words ſhould be an <hi>ex<g ref="char:EOLhyphen"/>plicatory</hi>
+to the former part of the
+verſe, as though the Stars of the mor<g ref="char:EOLhyphen"/>ning
+ſhould be the Children or Sons
+of God; for I can ſee no reaſon why
+that ſhould be wreſted <hi>figuratively,</hi>
+when it may be taken <hi>literally,</hi> and
+that this is the meaning, do but com<g ref="char:EOLhyphen"/>pare
+this place with the 148. <hi>Pſalm,
+verſ.</hi> 2, 3, 4. where he ſaith, <hi>Praiſe yee
+him, all his Angels,</hi> and in <hi>verſ.</hi> 3. <hi>Praiſe
+<pb n="24" facs="tcp:119386:19"/>
+yee him Sun and Moone, paiſe yee him all
+yee Stars of light. Praiſe him yee Heavens
+of Heavens,</hi> that is, <hi>the whole Heaven,</hi>
+called <hi>Heaven of Heavens,</hi> in regard of
+the ſpheres and ſcituation of the ſixed
+Stars and Planets: Here you ſee the
+<hi>Angels</hi> and <hi>Stars</hi> are diſtinguiſhed.</p>
+                     <p>3 They <hi>operate, becauſe God made
+them for this end,</hi> not to be <hi>idle,</hi> but
+to <hi>operate</hi> for the uſe of <hi>Man.</hi>
+                     </p>
+                     <p>
+                        <hi>Pſal. 8. 3. When I behold thine Hea<g ref="char:EOLhyphen"/>vens,
+even the works of thy fingers, the
+Moone and the Stars which thou haſi or<g ref="char:EOLhyphen"/>dained;</hi>
+To what end hath he <hi>ordain<g ref="char:EOLhyphen"/>ed</hi>
+them, but to ſerve <hi>Man,</hi> and to
+<hi>work</hi> for this uſe? and therefore he
+goeth on in the fourth verſe, <hi>What
+is man?</hi> that thou art mindfull of
+him, &amp;c.</p>
+                     <p>3 It is confirmed not onely by
+Scripture, and by reaſon, but alſo</p>
+                  </div>
+                  <div n="experience" type="subsection">
+                     <head>By Experience.</head>
+                     <p>
+                        <hi>Ariſtotle</hi> ſaith, That the <hi>Elements,</hi>
+and all things which are compoſed of
+the <hi>Elements,</hi> do teſtifie, that their ver<g ref="char:EOLhyphen"/>tues
+and naturall motions do depend
+<pb n="25" facs="tcp:119386:19"/>
+upon the <hi>activity</hi> of the heavenly <hi>moti<g ref="char:EOLhyphen"/>ons</hi>
+and <hi>influences.</hi>
+                     </p>
+                     <p>We ſee daily, that the <hi>Mariner</hi> by
+foreſeeing the <hi>riſing, ſetting</hi> and <hi>culmi<g ref="char:EOLhyphen"/>nation</hi>
+of ſome <hi>tempeſtuous Stars,</hi> and
+their <hi>conjunction</hi> and <hi>anglings</hi> with the
+<hi>Planets,</hi> hath an expert conjecture of
+<hi>ſtorms</hi> and <hi>tempeſts,</hi> and ſuch <hi>Meteorolo<g ref="char:EOLhyphen"/>gicall</hi>
+effects<g ref="char:punc">▪</g> which are dangerous on
+Sea, whereby he is prepared againſt
+danger. <hi>Plato</hi> ſaith, <hi>Mutationes, op<g ref="char:EOLhyphen"/>portunitateſque
+temporum praeſentire, non
+minus rei militari, quam agriculturae, na<g ref="char:EOLhyphen"/>vigationi<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>
+convenit.</hi> It is convenient,
+not only for the Souldier, but alſo for
+the Husbandman and Mariner to
+foreſee the alterations and opportu<g ref="char:EOLhyphen"/>nities
+of times and ſeaſons.</p>
+                     <p>
+                        <hi>Virgil</hi> ſhewes what evident tokens
+are foreſeene by the Sun and Moone.<note place="margin">Georg.</note>
+                     </p>
+                     <p>—Sol quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> &amp; exoriens, &amp; cum ſe con<g ref="char:EOLhyphen"/>det
+in undas,</p>
+                     <p>Signa dabit, ſolem certiſſima ſigna ſe<g ref="char:EOLhyphen"/>quuntur.</p>
+                     <p>Et quae manè refert, &amp; quae ſurgentibus
+aſtris.</p>
+                     <p>Ille ubi naſcentem maculis variaverit
+ortum<g ref="char:punc">▪</g>
+                     </p>
+                     <p>
+                        <pb n="26" facs="tcp:119386:20"/>
+Conditus in nubem<g ref="char:punc">▪</g> medioque refugerit
+orbe:</p>
+                     <p>Suſpecti tibi ſint imbres, &amp;c.</p>
+                     <p>And then he ſaith,</p>
+                     <p>Sol tibi ſigna dabit. Solem quis diſcere
+falſum Audeat.—</p>
+                     <p>Now let a man know more then a
+Common Student, then he is account<g ref="char:EOLhyphen"/>ed
+a Conjurer, he deals with the Di<g ref="char:EOLhyphen"/>vill,
+&amp;c. Let a man draw and erect a
+Scheame of the Heavens, and thereby
+calculate his Nativity, &amp;c. and frame
+a Judgement upon that, be it accord<g ref="char:EOLhyphen"/>ing
+to the judgement and experience
+of antient Writers, (which cannot be
+taxed with the ſcandall of dealing
+with the Divell,) preſently he is cen<g ref="char:EOLhyphen"/>ſured
+at the Barre of indiſcretion; he
+aſcribes <hi>fatality</hi> to the Stars, and that
+this muſt be: the Poſition of the Hea<g ref="char:EOLhyphen"/>vens
+tell him ſo; Who doth ſo? Doth
+Maſter <hi>Booker?</hi> Doth Maſter <hi>Lilly?</hi>
+whom yee terme <hi>fatall men,</hi> and meere
+<hi>Naturaliſts?</hi> What did <hi>Moſes?</hi> What
+did <hi>David?</hi> What did <hi>Solomon?</hi> of
+whom ſomething anon. I ſhall ſay no
+more, but onely this, That it is no
+point of wiſdom to <hi>derogate</hi> from (and
+<pb n="27" facs="tcp:119386:20"/>
+thereby <hi>ſcandalize</hi>) the worth and re<g ref="char:EOLhyphen"/>putation
+of the well deſerving. But
+to proceed.</p>
+                     <p>I muſt needs here taxe foure ſorts
+of people (the Propoſition being con<g ref="char:EOLhyphen"/>firmed,
+and I hope ſufficiently proved
+to a wiſe man; <hi>verbum ſat ſapienti.</hi>]</p>
+                     <p>1 Thoſe that aſcribe fatality to
+to the Stars. Theſe indeed overreach
+themſelves, thinking that the Stars
+are anſwerable to their doubts and
+demands upon a neceſſary tye; theſe
+indeed are meer Naturaliſts, Animals,
+that will tye the firſt cauſe to the ſe<g ref="char:EOLhyphen"/>condary.
+And becauſe the Heavens
+promiſe ſo much, it muſt needs be.</p>
+                     <p>2 Thoſe that deny any <hi>Influence</hi> at
+all; being Ignorants. Theſe under<g ref="char:EOLhyphen"/>value
+the ſecond Cauſe, and the pow<g ref="char:EOLhyphen"/>ers
+and inſtruments by which God
+works and effects according to ordi<g ref="char:EOLhyphen"/>nary
+meanes. Theſe thinke that no
+<hi>Influentiall vertue</hi> from the <hi>heavenly bo<g ref="char:EOLhyphen"/>dies</hi>
+beare any <hi>ſway at all</hi> in Generati<g ref="char:EOLhyphen"/>on
+and corruption in this <hi>elementall</hi>
+world. Theſe aſſigne a ſlight, ſuperfi<g ref="char:EOLhyphen"/>ciall,
+even <hi>a no power</hi> to the ſecondary
+cauſes at all: They conſider not the
+<pb n="28" facs="tcp:119386:21"/>
+Sun, the Moone and Stars, how pure,
+how bright, how wonderfull big,
+how far in diſtance, how manifold
+their Motions, how conſtant in their
+Periods, &amp;c. they are? and ſo aſcribe
+no more <hi>Influentiall power</hi> unto them,
+then they doe unto the ſigne of the
+Sun and Moone hung up in <hi>London</hi>
+ſtreets, to call in <hi>Twelve a clocke Drun<g ref="char:EOLhyphen"/>kards.</hi>
+Nay, the <hi>Elephant,</hi> the <hi>Cynoce<g ref="char:EOLhyphen"/>phalus,</hi>
+and the <hi>Ant,</hi> the <hi>Piſmire,</hi> and
+other creatures, ſhall <hi>naturally,</hi> by their
+<hi>actions</hi> and <hi>paſſions,</hi> more confeſſe the
+<hi>Heavenly Powers,</hi> then thoſe igno<g ref="char:EOLhyphen"/>rant,
+&amp;c. Such as thoſe will not aſcribe
+ſo much <hi>vertuall radiation</hi> and force to
+the Celeſtial bodies, as they ſee before
+their eyes in a little peece of a Mag<g ref="char:EOLhyphen"/>nes,
+or Magneticall Stone, which at a
+great diſtance ſhewes it operation:
+They thinke that the Sea and Rivers
+ebbe and flow of themſelves, when
+we know they follow the courſe of
+the Moone, &amp;c.</p>
+                     <p>3 Falſe <hi>Practiſers,</hi> that <hi>Calculate</hi>
+upon falſe grounds. They confeſſe
+the <hi>Stars</hi> have <hi>Influences,</hi> but by their
+falſe Calculations they derogate from
+<pb n="29" facs="tcp:119386:21"/>
+the force of thoſe influences.<note place="margin">
+                           <hi>John White</hi> likewiſe in the ſame <hi>Praedica<g ref="char:EOLhyphen"/>ment</hi> for 1646.</note> As they
+confeſſe, that the Moone hath Influ<g ref="char:EOLhyphen"/>ences.
+but by their falſe rules for her
+Motion, they (in as much as in them
+lieth) take away the force and power
+(God hath given her) over ſublunary
+Creatures;<note place="margin">I deny not but that that Scrip<g ref="char:EOLhyphen"/>ture Alma<g ref="char:EOLhyphen"/>nack is ve<g ref="char:EOLhyphen"/>ry good and profi<g ref="char:EOLhyphen"/>table; but blame the Calculati<g ref="char:EOLhyphen"/>on for the Moones equall mo<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g>, which was well omitted in the print<g ref="char:EOLhyphen"/>ed Sheets.</note> falſe
+Tables for her culmination, accord<g ref="char:EOLhyphen"/>ing
+to her equall motion, and ſo are
+ſhort or over her true culmination ac<g ref="char:EOLhyphen"/>cording
+to her <hi>Apogaeum</hi> or <hi>Perigae<g ref="char:EOLhyphen"/>um,
+&amp;c.</hi> That is <hi>H. J.</hi> his Calculation
+for the yeare 1646. for indeed I ſaw
+it not for 1645. before it was enlarg<g ref="char:EOLhyphen"/>ed;
+fetcht out of Maſter <hi>Aleſtree</hi> his
+Calculation; but I think he is belied.</p>
+                     <p>4 <hi>Superficiall Practiſers.</hi> Theſe deny
+not, but that the fairnes &amp; foulnes of
+the weather may be conjectured, but it
+muſt be onely when the time is neer,
+and the naturall cauſes have begun to
+worke; and their reaſon is,<note place="margin">
+                           <hi>D.</hi> Willet <hi>upon</hi> 1. Ge<g ref="char:EOLhyphen"/>neſ.</note> becauſe
+our Saviour Chriſt ſaid, <hi>Luk.</hi> 12. 54.
+<hi>When yee ſee a Cloud riſe out of the Weſt
+ſtraight way yee ſay, a ſhowre commeth, and
+ſo it is; and when the South winde blow<g ref="char:EOLhyphen"/>eth,
+yee ſay that it will be hot, and it co<g ref="char:EOLhyphen"/>meth
+to paſſe;</hi> and in <hi>Mat.</hi> 16, 2. <hi>When
+<pb n="30" facs="tcp:119386:22"/>
+it is evening, ye ſay, faire weather, for the
+skie is red; and in the morning, yee ſay,
+to day ſhall be a Tempeſt, for the skie is red
+and lowring.</hi> But marke here, 1. Chriſt
+did ſay as they did ſay, [<hi>yee ſay.</hi>]
+2. Where is there a certainty in this
+whereupon to build a <hi>certaine Predicti<g ref="char:EOLhyphen"/>on,</hi>
+though the time be neare, &amp;c. for
+though he ads to the two firſt, [<hi>and it
+commeth to paſſe,</hi>] yet he leaves it out in
+the two laſt 3. Then it ſhould be law<g ref="char:EOLhyphen"/>full
+to predict theſe foure only and no
+more. 4. We often ſee theſe <hi>naturall</hi>
+cauſes appeare, and the <hi>effects</hi> follow
+not; other cauſes (I ſuppoſe,) hin<g ref="char:EOLhyphen"/>dering
+theſe effects, which the eye of
+<hi>man</hi> perceives not. 5. <hi>Chriſt came</hi> to
+teach <hi>Salvation,</hi> not <hi>Aſtronomy</hi> or <hi>Aſtro<g ref="char:EOLhyphen"/>logy,</hi>
+and therefore Chriſt teaches
+them not this, but puts them in mind
+of what <hi>they themſelves ſay and teach,</hi> he
+reproves them not for <hi>ſaying ſo,</hi> but he
+reproves them for their quick ſight<g ref="char:EOLhyphen"/>edneſſe
+in <hi>earthly</hi> things, and blind<g ref="char:EOLhyphen"/>neſſe
+in <hi>ſpirituall matters.</hi> Theſe are
+too ſuperficiall, and thinke nothing
+more but theſe may be done upon <hi>pro<g ref="char:EOLhyphen"/>bable
+conjecture,</hi> if they hold it lawfull
+<pb n="31" facs="tcp:119386:22"/>
+to predict upon theſe cauſes, why not
+upon more that may be as probable,
+though no naturall cauſes have be<g ref="char:EOLhyphen"/>gun
+to worke? Theſe conſider not (as
+they ought to doe) the wondrous
+workes of God in their naturall ope<g ref="char:EOLhyphen"/>rations,
+and influentiall vertues
+which God revealed to man; and ſo I
+fall upon the third Propoſition.</p>
+                     <p>3. That God hath revealed thoſe re<g ref="char:EOLhyphen"/>ceived
+influences to man.</p>
+                     <p>God would never have asked <hi>Job,
+If he could bind the ſweet influences of
+the Pleyades, &amp;c.</hi> if he had not known
+them.</p>
+                     <p>
+                        <hi>No queſtion but God</hi> revealed <hi>them
+to</hi> Solomon,<note place="margin">Lib. ſapi<g ref="char:EOLhyphen"/>ent. cap. 7.</note> 
+                        <hi>for ſo</hi> Solomon <hi>teſtifies of
+himſelfe, when he ſaith,</hi> Deus mihi de<g ref="char:EOLhyphen"/>dit
+haruin rerum cognitionem veram, &amp;c.
+<hi>God hath given me the</hi> true knowledge
+of things that are, <hi>ſo</hi> that I know how the
+world was made, and the powers of the Ele<g ref="char:EOLhyphen"/>ments;
+The beginning and the end, and
+the midſt of the times, how the times alter,
+and the change of the ſeaſons: The courſe
+of the yeare, the ſituation of the Starres,
+the nature of living things, and the furi<g ref="char:EOLhyphen"/>ouſneſſe
+of beaſts, the power of the winds,
+<pb n="32" facs="tcp:119386:23"/>
+and the imaginations of men, the diverſi<g ref="char:EOLhyphen"/>ties
+of plants, and the vertues of rootes;
+and all things both ſecret and knowne doe I
+know, for wiſedome the worker of all things
+hath taught it me. <hi>And in the eighth
+Chaptet he ſaith,</hi> If any man deſire
+great experience, ſhe can tell the things
+that are paſt, and diſcerne things to come;
+ſhe knoweth the ſubtilties of words, and
+the ſolutions of darke ſentences: ſhe fore<g ref="char:EOLhyphen"/>ſeeth
+the ſignes and wonders, ere ever they
+come to paſſe, and the ſucceſſe of ſeaſons and
+times, &amp;c. <hi>and then ſeeing God (whom
+he calls by the name of wiſdome) had
+given him this knowledge; he ſaith<g ref="char:punc">▪</g>
+                        </hi> I
+ſhall be found of ſharpe Iudgement, ſo that
+I ſhall be marvellous in the ſight of great
+men, &amp;c.</p>
+                     <p>And <hi>Solomon</hi> was no Conjrer, he
+dealt not with familiar ſpirits, but
+with the living God, who at his
+Prayer gave him an underſtanding
+heart.</p>
+                     <p>Now we muſt underſtand that there
+is a three-fold Prognoſtication, or
+Divination:
+<list>
+                           <item>Viz.
+<list>
+                                 <item>1 Superſtitious.</item>
+                                 <item>2 Supernaturall.</item>
+                                 <item>3 Naturall.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </p>
+                     <p>
+                        <pb n="33" facs="tcp:119386:23"/>
+1 Superſtitious, and this:
+<list>
+                           <item>Either
+<list>
+                                 <item>1 Heatheniſh;</item>
+                                 <item>Or,</item>
+                                 <item>2 Oraculous.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </p>
+                     <p>1 Heatheniſh, as Auguration, Aru<g ref="char:EOLhyphen"/>ſpice,
+Necromancy, &amp;c. ſuch as the
+<hi>Egyptians</hi> uſed; this is impious and
+vaine, and abominable, and there<g ref="char:EOLhyphen"/>fore
+the Lord gives the Children of
+Iſraell a ſpeciall caveat, <hi>Deuter.</hi> 18.
+<hi>verſ.</hi> 10, 11. <hi>Let none be found among you
+that maketh his Sonne or his Daughter
+go through the fire, or that uſeth Witch<g ref="char:EOLhyphen"/>craft,
+or a regarder of times,</hi> [that
+is, a ſuperſtitious and Heatheniſh re<g ref="char:EOLhyphen"/>garder
+of times, as the Aegyptians
+were] or a marker of the flying of
+Fowles, or a Sorcerer, or a Charmer,
+or that Counſelleth with ſpirits, or a
+South-ſayer, or that asketh counſell
+of the dead.</p>
+                     <p>2 <hi>Oraculous,</hi> and this was practi<g ref="char:EOLhyphen"/>ſed
+by wicked ſpirits in Oracles, and
+anſwers in Idols, and in poſſeſſed
+perſons by the ſuggeſtion of the De<g ref="char:EOLhyphen"/>vill;
+and ſuch were the Oracles of
+<hi>Apollo,</hi> which were alwaies doubtfull.
+This ſuperſtitious Divination God
+never revealed to man.</p>
+                     <p>
+                        <pb n="34" facs="tcp:119386:24"/>
+2 <hi>Supernaturall,</hi> and this is onely
+revealed to man by God, and this
+is not properly <hi>Prognoſtication,</hi> but
+<hi>Propheſying,</hi> and this was <hi>Solomons</hi> Di<g ref="char:EOLhyphen"/>vination,
+ſo that he may rather be
+ſaid to <hi>Propheſie</hi> then to <hi>Prognoſticate.</hi>
+                     </p>
+                     <p>3 <hi>Naturall,</hi> and this a man may
+fore-ſhew by <hi>probable</hi> conjecture, argu<g ref="char:EOLhyphen"/>ing
+from the <hi>cauſe</hi> to the effects; <hi>Ex ſimilibus
+cauſis ſimiles producuntu effe<g ref="char:EOLhyphen"/>ctus.</hi>
+The effects are produced accor<g ref="char:EOLhyphen"/>ding
+to the nature and quality of the
+knowne cauſes, the Naturall efficients
+are Elements, <hi>Planets, Starres, Meteors,</hi>
+&amp;c. which have their <hi>effects;</hi> the <hi>effect</hi>
+of this <hi>efficient</hi> is a <hi>voluntary action,</hi>
+by which the Principall (which is
+God) doth act, and by it is helped
+aſſiſted and furthered in producing
+the effect; as the Maſter builder is
+helped by his Servants to build an
+houſe. The Heavens and the Planets
+are efficients, procreant cauſes by their
+operative Motions to bring forth or
+hinder the fruits of the <hi>earth;</hi> and
+this is that which we called Aſtrology,
+from <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>ratio ſtellarum,</hi> as
+much as to ſay, The <hi>reaſon</hi> of the
+<pb n="35" facs="tcp:119386:24"/>
+                        <hi>Starres and Coeleſtiall effects;</hi> and this
+Sir <hi>Chriſtopher Heydon</hi> defines to be an
+Art which teacheth to predict and
+prognoſticate of the naturall effects,
+and mutations which may hereafter
+come in the Elements, and theſe in<g ref="char:EOLhyphen"/>feriour
+and Elementary bodies. But
+how is this done? Even by the moti<g ref="char:EOLhyphen"/>ons,
+configurations, and influences of
+the Starres, Planets, and Coeleſtiall
+Bodies: which Art is gotten and
+goes on to perfection by ſtudy, tryall,
+and experience; ſo that it muſt be
+guided by reaſon, and ſubmit it ſelfe
+to the Almighty power of God, who
+is <hi>Natura naturans,</hi> the God of Na<g ref="char:EOLhyphen"/>ture,
+and the revealer of ſecrets.</p>
+                     <p>Now God did reveale the ſuperna<g ref="char:EOLhyphen"/>turall
+Divination to <hi>Solomon</hi> extraor<g ref="char:EOLhyphen"/>dinarily,
+ſo he hath and doth ſtill
+reveale this naturall Divination to
+man experimentally. Let me inſtance,
+and then let the blind Antagoniſt
+ruminate.</p>
+                     <p>It is certaine that the ſtate of the
+weather doth by the will and order
+of the firſt cauſe depend upon the ſe<g ref="char:EOLhyphen"/>condary
+cauſes; as upon the courſe
+<pb n="36" facs="tcp:119386:25"/>
+of the Sunne meeting with the fixed
+Starres, and therefore it is that the
+Holy Ghoſt ſaith, <hi>Iob</hi> 38. 31<g ref="char:punc">▪</g> 
+                        <hi>Canſt
+thou reſtraine the ſweet influences of the
+Pleyades, &amp;c.</hi> and then in the 32. ver.
+<hi>Canſt thou bring forth Mazzoroth in
+their time? Canſt thou alſo guide Ar<g ref="char:EOLhyphen"/>cturus
+with his Sonnes,</hi> and he goes
+forward in the 33. ver. <hi>Knoweſt thou
+the courſe of the Heaven, or canſt thou ſet
+the rule thereof in the earth?</hi> As much as
+to ſay, Though thou doſt know the
+courſe of Heaven, and the Coeleſtiall
+Bodies in their motions and influen<g ref="char:EOLhyphen"/>ces,
+yet thou (who art but a weake
+creature, and ſeemeſt to contend
+againſt thy Creator) canſt not ſet the
+rule thereof in the earth; that is, Thou
+canſt not cauſe the Heavenly bodies
+to have any power over the earthly
+tbodies, ſo <hi>Iunius</hi> gloſſeth: certaine
+then they have power, and <hi>Iob</hi> knew
+their power, though it lay not in his
+power to effect, being a weake crea<g ref="char:EOLhyphen"/>ture:
+but all this makes for the Aſtro<g ref="char:EOLhyphen"/>logian,
+ſo that he wreſt not his judge<g ref="char:EOLhyphen"/>ment
+to high, whereby he may ſeeme
+to contend with his Maker.</p>
+                     <p>
+                        <pb n="37" facs="tcp:119386:25"/>
+But to proceed.<note place="margin">The cer<g ref="char:EOLhyphen"/>taine time when they meet with the Sun I ſhal here<g ref="char:EOLhyphen"/>after ſhew, for the lat. of 51. 30.</note> It is a received opi<g ref="char:EOLhyphen"/>nion
+grounded upon long experience,
+that the Sun in <hi>Taurus</hi> meeting with the
+<hi>Pleyades</hi> and <hi>Heyades</hi> toward the North,
+and the <hi>Haedi</hi> or <hi>Kids</hi> towards the South,
+and afterwards with <hi>Orion,</hi> and after
+with <hi>Arcturus;</hi> all theſe (though they
+be by nature ſtormy, tempeſtuous, and
+moiſt Conſtillations) doe ſtirre up not<g ref="char:EOLhyphen"/>withſtanding
+ſweet and pleaſant ſhew<g ref="char:EOLhyphen"/>ers,
+which doe freſh the tender-rooted
+Plants, being warmed by Southerly
+winds.</p>
+                     <p>And in the Summer when theſe Plants
+have received deep roote, and therefore
+need moiſture to further their increaſe
+to their full growth, we ſee that the
+Sun meets with the <hi>Aſelli</hi> in <hi>Cancer,</hi>
+which bring with them ſweet ſhowres,
+and a latter Raine to make them proſ<g ref="char:EOLhyphen"/>per;
+then againe, they wanting heat for
+their full maturation, the Sun (entring
+into <hi>Leo,</hi> being a Signe of the fiery
+triplicity, hot and dry) meets with the
+two Doggs, <hi>Syrius</hi> and <hi>Procion,</hi> of the
+nature of <hi>Mars</hi> and <hi>Jupiter,</hi> which bring
+great heat to ripen Corne and other
+Fruits; this heat notwithſtanding is
+<pb n="38" facs="tcp:119386:26"/>
+tempered through the providence of
+God by the Eteſian winds, which com<g ref="char:EOLhyphen"/>monly
+ariſe at that time of the yeare.
+Then againe, the Sun enters the Ter<g ref="char:EOLhyphen"/>reſtriall
+Signe <hi>Virgo,</hi> by nature cold and
+dry, which doth ſo abate the heate, that
+the earth being now cooler, the Huſ<g ref="char:EOLhyphen"/>bandman
+doth with great eaſe and joy
+gather in the fruits of the earth.</p>
+                     <p>Then the Sun meeting with ſtormy
+Bootes of the nature of <hi>Mars</hi> participa<g ref="char:EOLhyphen"/>ting
+with <hi>Jupiter,</hi> brings againe oppor<g ref="char:EOLhyphen"/>tune
+and timely, and ſeaſonable ſhow<g ref="char:EOLhyphen"/>ers,
+to cloſe up the hollow cones of the
+gaping earth.</p>
+                     <p>In the <hi>Autumne</hi> the Husbandman be<g ref="char:EOLhyphen"/>gins
+to provide for the Crop for the
+next yeare; the qualities of that Quar<g ref="char:EOLhyphen"/>ter
+being cold and dry, the Sun then
+comes to riſe in the Morning, when the
+<hi>Pleyades, Hyades,</hi> and <hi>Orion</hi> doe ſet,
+which cauſe ſome cold ſhowres, yet
+they hurt not the new ſowne Corne;
+And why? Even becauſe the Sun is then
+in <hi>Sagittary</hi> of the fiery triplicity, hot
+and dry. Thus we ſee how it pleaſeth
+God to cauſe a ſweet temper and quali<g ref="char:EOLhyphen"/>fication
+of the nature of the Starres
+<pb n="39" facs="tcp:119386:26"/>
+to pleaſure ſinfull man.</p>
+                     <p>But ſome will ſay,<note place="margin">Object.</note> It ſeemes by this
+that the judgement of the weather is
+certaine, and by one yeares obſerva<g ref="char:EOLhyphen"/>tion
+the next is known. To which I
+anſwer.<note place="margin">Solut.</note> That the judgement of the
+weather would be certaine hath it
+not pleaſed <hi>God</hi> to ſet other <hi>Lights</hi>
+for <hi>ſignes,</hi> and for <hi>ſeaſons,</hi> and they
+are the <hi>Planets,</hi> with the <hi>Sunne</hi> and
+<hi>Moone,</hi> whoſe aſpects cauſe ſuch va<g ref="char:EOLhyphen"/>rious
+and divers effects, as we daily
+finde by experience; for,</p>
+                     <p>1 Their courſe being various doe
+continually cauſe a wonderfull
+change of weather, even to mans ad<g ref="char:EOLhyphen"/>miration.</p>
+                     <p>2 Another reaſon may be their
+great diſtance from us, they darting
+their natures upon us as upon a Cen<g ref="char:EOLhyphen"/>tre,
+and therefore it muſt follow, that
+generall influences muſt needs over<g ref="char:EOLhyphen"/>come
+particulars; for it may raine in
+one place and not in another; here
+Snow, and there Haile; and I would
+know whether this be any prejudice
+to the Art, or elſe unto the Artiſt: It
+may be true that the aſpects which
+<pb n="40" facs="tcp:119386:27"/>
+are moſt prevalent under ſuch a place
+at the time aſpected (conſidering the
+circle of Poſition) may happily pro<g ref="char:EOLhyphen"/>duce
+the ſame effects, according to
+the nature and quality of the Planets
+aſpected, though perhaps it falls
+otherwiſe in another place, which
+is not under the ſame circle, which
+divers doe not conſider: yet Artiſts,
+as they profeſſe themſelves. <hi>Amos</hi>
+ſaith,<note place="margin">Amos 4.</note> 
+                        <hi>cap.</hi> 4. <hi>verſe</hi> 7. Propheſying
+againſt the Governours of <hi>Samaria,</hi>
+tells them, <hi>That God had with-holden
+the raine from them, when it was three
+moneths to Harveſt, and I cauſed it to
+raine upon one City, and have not cauſed
+it to raine upon another City,</hi> but this
+was the judgement of God.</p>
+                     <p>3 Another reaſon may be, the
+curſe of God which fell upon <hi>Adam,</hi>
+which deſcended as well upon his
+<hi>Iudgement</hi> as <hi>Perſon;</hi> and ſurely ſince
+his fall none can attaine to a per<g ref="char:EOLhyphen"/>fection
+in any Art, therefore it is
+that the Sonnes of <hi>Adam</hi> are of ſuch
+weak underſtanding and raſh judge<g ref="char:EOLhyphen"/>ment;
+that he conſiders not things
+to the purpoſe, he conſiders not the
+<pb n="41" facs="tcp:119386:27"/>
+moderatours of every quarter of the
+Moone, the Winds agreeing to the
+ſeaſons of the yeare and place, for it
+bloweth not alike in all places, &amp;c.</p>
+                     <p>Now then the conſideration of all
+theſe things will certainely evince
+the ignorant of an apparant errour,<note place="margin">Applica<g ref="char:EOLhyphen"/>tion.</note>
+that ſay, God never revealed any
+ſuch things to man. But I write not
+this to fooles, ignorant, or malici<g ref="char:EOLhyphen"/>ous,
+but to the wiſe and rationall
+man. But conſider this, 1. That as
+God in his goodneſſe, power, and
+wiſedome hath Created all things
+in <hi>number, weight,</hi> and <hi>meaſure,</hi> ſo to
+us of his great mercy he hath revea<g ref="char:EOLhyphen"/>led
+meanes, whereby to attaine to
+the ſufficient and neceſſary know<g ref="char:EOLhyphen"/>ledge
+of thoſe things as he did to
+<hi>Moſes, Solomon, Abraham, Iob,</hi> &amp;c.
+And 2. Conſider this, <hi>Qui ſapiens
+<gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ntitur aſtris, ut bonus Aſtrologus; qui
+ſenſualis, ſervet aſtris ut</hi> Nero, <hi>qui
+ſanctus dominatur aſtris, ut Ioſhua.</hi>
+A wiſe man uſeth the Starres like
+a good Aſtrologer; a ſenſuall man
+ſerves the Starres like <hi>Nero:</hi> An
+holy man doth (as it were) go<g ref="char:EOLhyphen"/>verne
+<pb n="42" facs="tcp:119386:28"/>
+the Starres, becauſe he feares
+them not, they worke for his good,
+they fight for him, as they did
+for <hi>Barak</hi> againſt <hi>Siſera,</hi> Judges 5.
+20. and was not this revealed ex<g ref="char:EOLhyphen"/>traordinarily by the ſpirit of Pro<g ref="char:EOLhyphen"/>phecy,
+to the Propheteſſe <hi>Debora,</hi>
+Judges 4.</p>
+                     <p>3. Conſider as God hath en<g ref="char:EOLhyphen"/>dued
+a man with Reaſon, Wiſe<g ref="char:EOLhyphen"/>dome,
+and underſtanding; ſo he
+hath in ſome meaſure endued him
+with Judgement: as God who is
+the firſt and principall cauſe doth
+worke ordinarily by the ſecond
+cauſes; ſo he hath given Judge<g ref="char:EOLhyphen"/>ment
+to man to ſhew, ſet forth,
+finde out, and predict the effects of
+the ſecond cauſes according to their
+nature and quality, and ſo I come to
+the fourth Propoſition.</p>
+                     <p>4 That it is not unlawfull to pre<g ref="char:EOLhyphen"/>dict
+and prognoſticate according to the
+knowne nature and quality of thoſe re<g ref="char:EOLhyphen"/>ceived
+influences.</p>
+                     <p>The precedent Premiſes being
+conſidered, the ingenious will con<g ref="char:EOLhyphen"/>feſſe
+this Propoſition to be a conſe<g ref="char:EOLhyphen"/>quent.
+<pb n="43" facs="tcp:119386:28"/>
+                        <hi>Qualis cauſa, talis effectus,</hi>
+and the cauſes being knowne the
+effects cannot be hid; and there<g ref="char:EOLhyphen"/>fore
+this being thus probable, it
+needs no great demonſtration. And
+it being thus probable by the for<g ref="char:EOLhyphen"/>mer
+Propoſitions, <hi>Non eget proba<g ref="char:EOLhyphen"/>tione
+niſi apud homines aut parum
+aequos, aut ſtolidos.</hi> It needs no pro<g ref="char:EOLhyphen"/>bation,
+unleſſe to men that are not
+rationall or fooliſh.</p>
+                     <p>But I ſhall ſhew two things in this
+Propoſition: <hi>viz.</hi>
+                     </p>
+                     <q>
+                        <list>
+                           <item>The
+<list>
+                                 <item>1 Defence</item>
+                                 <item>2 Fence</item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>of</hi> Predictions.</item>
+                        </list>
+                     </q>
+                     <p>In the firſt <hi>Predictions</hi> are defen<g ref="char:EOLhyphen"/>ded;
+in the ſecond, bounded and
+limited.</p>
+                     <p>1. Defended; <hi>It is not unlawfull
+to predict</hi>] There is a difference
+between <hi>licitum,</hi> and <hi>non illicitum:</hi>
+a thing lawfull, and a thing not
+unlawfull: had I found <hi>Predicti<g ref="char:EOLhyphen"/>ons</hi>
+in the Scripture abſolutely <hi>com<g ref="char:EOLhyphen"/>manded,</hi>
+I ſhould have ſaid then,
+That it is <hi>lawfull to predict;</hi> but
+becauſe I finde them no where <hi>forbid<g ref="char:EOLhyphen"/>bidden,</hi>
+                        <pb n="44" facs="tcp:119386:29"/>
+neither <hi>explicitely,</hi> nor <hi>impli<g ref="char:EOLhyphen"/>citely,</hi>
+therefore I ſay, That <hi>it is not
+unlawfull,</hi> becauſe not <hi>forbidden.</hi>
+                     </p>
+                     <p>But then ſome will ſay, Doth
+not the Lord in the tenth of <hi>Iere<g ref="char:EOLhyphen"/>my</hi>
+and the ſecond, forbid it, when
+he ſaith,<note place="margin">Object.</note> 
+                        <hi>Learne not the way of the
+Heathen, and be not afraid for the
+ſignes of Heaven, though the Heathen
+be afraid of ſuch.</hi>
+                     </p>
+                     <p>The gloſſe upon the place runs
+thus: God forbiddeth his people to
+give credit to, or feare the conſtella<g ref="char:EOLhyphen"/>tions
+and conjuctions of Stars and
+Planets, which have no power of
+themſelves, but are governed by him,
+and their ſecret motions and in<g ref="char:EOLhyphen"/>fluences
+are not knowne to man,
+and therefore there can be no <hi>cer<g ref="char:EOLhyphen"/>taine
+judgement thereof. Deut.</hi> 18. 9.
+thus the gloſſe, and therefore they
+ſay, 'Tis forbidden.</p>
+                     <p>For anſwer hereunto, I ſhal anſwe
+and open the Text before the gloſſe,
+and they ſhall finde no ſuch matter.</p>
+                     <p>Firſt for the Text,<note place="margin">Anſw.</note> 
+                        <hi>Learne not the
+way of the Heathen</hi>] What was their
+way? 'tis expounded in <hi>Deut.</hi> 18. 9.
+<pb n="45" facs="tcp:119386:29"/>
+their way is called an abominati<g ref="char:EOLhyphen"/>on.
+<hi>Thou ſhalt not learne to doe after
+the abominations of thoſe Nations;</hi>
+now what their abominations were,
+you may read forward in the 10.
+11. ver. <hi>Let not any be found among
+you that maketh his Son or his Daugh<g ref="char:EOLhyphen"/>ter
+to paſſe through the fire</hi>] Lev. 18.
+21. they paſſed to <hi>Molech,</hi> which
+was an Idol of the <hi>Ammonites,</hi> to
+whom they burned and ſacrificed
+their Children, as you may read,
+2 <hi>King.</hi> 23. 10.</p>
+                     <p>
+                        <hi>Or that uſeth Witchcraft</hi>] or as
+the new Tranſlation, <hi>that uſeth Di<g ref="char:EOLhyphen"/>vination</hi>]
+what this Divination was
+I have told before.</p>
+                     <p>
+                        <hi>Or a regarder</hi> (or obſerver) <hi>of times</hi>]
+that is, that doth ſuperſtitiouſly ob<g ref="char:EOLhyphen"/>ſerve
+times as the Heathen did, as
+before.<note place="margin">The <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Lawes made aginſt them that were cal<g ref="char:EOLhyphen"/>led <hi>Mathe<g ref="char:EOLhyphen"/>matici, Chaldae, Arioli,</hi> and <hi>Divinatores,</hi> were made againſt thoſe that <hi>Moſes</hi> ſpeakes of in 18. <hi>Deut.</hi> of whom <hi>
+                              <g ref="char:V">Ʋ</g>lpian</hi> lib. 7. <hi>De officio proconſulis.</hi>
+                        </note>
+                     </p>
+                     <p>
+                        <hi>Or a marker of the flying</hi> of Fowls, or
+as the new Tranſlation, <hi>or an Inchanter</hi>]
+ſuch as were the wicked <hi>Aegyptians.</hi>
+                     </p>
+                     <p>
+                        <hi>Or a Sorceaer</hi>] or Witch, <hi>or a
+<pb n="46" facs="tcp:119386:30"/>
+Charmer</hi>] in the 18. of <hi>Levit.</hi> 27.
+there 'tis expounded, ſuch a man
+or woman that hath a ſpirit of
+<hi>Divination</hi> or <hi>Sooth-ſaying</hi> in them,
+ſuch an one was the <hi>cunning wo<g ref="char:EOLhyphen"/>man</hi>
+of <hi>Endor,</hi> who is ſaid in 1 <hi>Sam.</hi>
+28. 7. to <hi>have a familiar ſpirit,</hi> and
+therefore ſuch an one is called,
+<hi>A conſislter with familiar ſpirits.</hi>
+                     </p>
+                     <p>Or a Sooth-ſayer, <hi>the new Tranſla<g ref="char:EOLhyphen"/>tion,</hi>
+a Wizzard, <hi>or</hi> that asketh
+counſell at the dead; <hi>or as the new
+Tranſlation,</hi> a Necromancer.</p>
+                     <p>Theſe be the waies, even the
+abominations of the Heatheniſh
+and ſuperſtitious Aegyptians, which
+the Children of <hi>Iſrael</hi> muſt not
+learne.</p>
+                     <p>Then it followes; <hi>And be not
+afraid for the ſignes of Heaven, for
+the Heathen are afraid,</hi> or <hi>diſmayed
+at them</hi>] Is this Aſtrology that is
+forbidden here? No ſure; yet ſup<g ref="char:EOLhyphen"/>poſe
+that by theſe ſignes of the
+Heavens ſhould be meant the in<g ref="char:EOLhyphen"/>fluences
+of the ſignes? What, doe
+you conclude that the Art is for<g ref="char:EOLhyphen"/>bidden,
+becauſe by the Heathens
+<pb n="47" facs="tcp:119386:30"/>
+abuſed? No, looke with the eye
+of Judgement upon the words,
+and you ſhall finde that the Art it
+ſelfe is not reprehended, but the
+vaine confidence that the Heathen
+did put in the Art, therefore he
+ſaith, <hi>Be not afraid;</hi> as though he
+ſhould ſay, The Heathens did ſo
+much truſt to their Diviners, that
+told them what ſucceſſe ſhould be
+expected by the ſignes of the Hea<g ref="char:EOLhyphen"/>vens,
+that they did feare if a
+proſperous ſucceſſe were not pre<g ref="char:EOLhyphen"/>dicted,
+but they looked onely up<g ref="char:EOLhyphen"/>on
+the ſecondary cauſes; but you
+(my Children) looke upon me
+the firſt cauſe, and therefore be
+not afraid of the ſignes of Hea<g ref="char:EOLhyphen"/>ven
+(as the Heathens were who
+knew me not) though they pro<g ref="char:EOLhyphen"/>miſe
+no good ſucceſſe, I am above
+them, I can make the Starres in
+their courſe fight for you, as you
+know I did againſt <hi>Sicera,</hi> Judges
+5. 20. &amp;c.</p>
+                     <p>Now how it is forbiddin in this
+place to predict, and ſo judge of the
+effects by the nature of the cauſes?</p>
+                  </div>
+               </div>
+               <div n="gloss" type="part">
+                  <pb n="48" facs="tcp:119386:31"/>
+                  <head>Thus for the Text; now
+2 For the Gloſſe.</head>
+                  <p>It is certaine that a man may
+be a good <hi>Divine,</hi> yet no <hi>Aſtrono<g ref="char:EOLhyphen"/>mer.</hi>
+And for the Gloſſe, I am
+perſwaded, that it was neither
+<hi>Junius</hi> nor <hi>Tremelius</hi> upon the Text,
+but it was crept in, and thruſt in
+by I know not whom; for marke
+what he ſaith. <hi>God forbiddeth his
+people to give credit to, or feare
+the conſtellations and conjunctions]</hi> I
+am ſure 'tis nothing to the Text;
+and then ſecondly, how doth this
+expound it, when as a gloſſe ſhould
+make a thing plainer then the Text
+it ſelfe? Can any man that hath
+knowledge in Aſtronomy thinke,
+that by [<hi>Signes</hi>] ſhould be
+meant the Conſtellations, when as
+a Conſtellation is the ſame that
+<hi>Sydus</hi> is, even a knot of Starres
+compacted; or as another ſaith,
+<hi>Constellationes vocant notationes ſyde<g ref="char:EOLhyphen"/>rum
+quomodo ſe habeant; cùm quis
+naſeitur;</hi> and how can this be under<g ref="char:EOLhyphen"/>ſtood
+<pb n="49" facs="tcp:119386:31"/>
+by the word [<hi>Signes</hi>] when
+as 'tis plaine, that by ſignes there
+Rhetoricke will teach us is meant,
+the influences of the Signes, by a
+Figure called a <hi>Metonymy,</hi> where
+the <hi>cauſe</hi> is put for the <hi>effect:</hi> The
+Heathen did too much feare the in<g ref="char:EOLhyphen"/>fluences
+of the Signes.</p>
+                  <p>Againe, he ſaith, <hi>The conſtellati<g ref="char:EOLhyphen"/>ons
+and conjunctions of Starres and
+Planets</hi>] Sure this is but a little
+better then <hi>non-ſenſe;</hi> for [<hi>And</hi>] is
+a conjunction <hi>copulative,</hi> and joynes
+together things of <hi>ſeverall natures.</hi>
+And what <hi>Aſtronomer</hi> did ever read
+or heare of a fixed Starre was ever
+properly ſaid to be aſpected with
+any <hi>Planet</hi> before Maſter <hi>Whartons</hi>
+time.</p>
+                  <p>And then it goes on. <hi>And their
+ſecret motions and influences</hi> are not
+<hi>knowne to man</hi>] What Motions are
+they that are ſecret? their motions
+ſure are not ſo ſecret, but knowne
+to man; but for their influences,
+ſome are ſecret, as ſome vertues are
+ſecret in <hi>Hearbs</hi> that are not knowne
+to the experteſt Phiſician.</p>
+                  <p>
+                     <pb n="50" facs="tcp:119386:32"/>
+And then it concludes, and there<g ref="char:EOLhyphen"/>fore
+there <hi>can be no certaine judge<g ref="char:EOLhyphen"/>ment
+thereof</hi>] 'tis a plaine <hi>Non ſe<g ref="char:EOLhyphen"/>quitur.</hi>
+And though the Judgement
+of man be defective, yet it may be
+<hi>probable</hi> being grounded upon a
+<hi>probable reaſon and conjecture;</hi> for I
+ſay, <hi>'Tis not unlawfull to predict</hi>]
+and who knowes not, but that the
+word [<hi>predict</hi>] is Aſtronomically
+nothing elſe but to fore-ſhew the
+effects that may happen from the
+nature of the knowne cauſes. And
+what man is ſo mad as to reject
+the advice of the skilfull and ex<g ref="char:EOLhyphen"/>pert
+Phifitian, when he tells him
+the nature of ſuch a compound is
+good to give eaſe to his ſicke bo<g ref="char:EOLhyphen"/>dy;
+it may be that God will give
+a bleſſing to it, or it may not be;
+if it eaſe not, 'tis a ſigne of Gods
+diſpleaſure, &amp;c.</p>
+                  <p>
+                     <hi>Heywood</hi> in his Hierarchy,<note place="margin">Hierarahy lib. 7. tit. Principats.</note> 
+                     <hi>lib.</hi> 7.
+<hi>tit.</hi> Principats hath no manifeſt or
+ſound Objections, Aſtrology is de<g ref="char:EOLhyphen"/>fined
+to be <hi>ſcientia aſtris,</hi> a know<g ref="char:EOLhyphen"/>ledge
+in the Starres, of which (he
+ſaith) <hi>Pliny</hi> in his 57. Booke of his
+<pb n="51" facs="tcp:119386:32"/>
+naturall Hiſtory, witneſſeth that
+<hi>Atlanta</hi> King of the <hi>Mauritanians</hi> was
+the firſt inventor.</p>
+                  <p>Indeed I read, that <hi>Atlas</hi> who was
+King of <hi>Arcadia</hi> was the firſt inven<g ref="char:EOLhyphen"/>tor
+of Aſtronomy, from whom a
+Mountaine in <hi>Mauritania</hi> takes it
+name, and is called <hi>Atlas,</hi> which was
+ſo high that the top of it is ſaid
+to reach to Heaven, and to ſuſtaine
+it, and therefore <hi>Atlas</hi> is ſaid to
+beare Heaven upon his ſhoulders,
+even by maintaining the Science of
+Aſtronomy, he lived, <hi>Anno Mundi,</hi>
+2168.</p>
+                  <p>Can any man thinke the worſe of
+that Science that was invented by
+an Heathen, if he were the firſt in<g ref="char:EOLhyphen"/>ventor
+of it.</p>
+                  <p>
+                     <hi>And then he goes on,</hi> Of this Art
+of Aſtrology <hi>the ſacred Scripture in
+divers places makes mention, as</hi>
+Deut. 4. 19. And leſt thou lift up thine
+eyes to Heaven, and when thou ſeeſt
+the Sun, and the Moone, and the Stars,
+with all the Hoſt of Heaven, ſhoul<g ref="char:EOLhyphen"/>deſt
+be driveu to worſhip them, and
+ſerve them, which the Lord thy God
+<pb n="52" facs="tcp:119386:33"/>
+hath<note n="*" place="margin">That is, He hath appointed them to ſerve man.</note> diſtributed to all people under the
+whole Heaven.</p>
+                  <p>Is Aſtrology here forbidden, or
+is this Aſtrology? 'Tis farre wide
+from it, 'tis not Aſtrology here for<g ref="char:EOLhyphen"/>bidden,
+but Idolatry, even the Ido<g ref="char:EOLhyphen"/>latry
+of the <hi>Aegyptians,</hi> who are cal<g ref="char:EOLhyphen"/>led
+Heathen, <hi>Ier.</hi> 10. 2.</p>
+                  <p>Then he quotes 47. <hi>Eſay</hi> 13. <hi>Thou
+art wearied in the multitude of thy
+counſells;</hi> let now the Aſtrologers,
+the Starre-gazers, and Prognoſtica<g ref="char:EOLhyphen"/>tors
+ſtand up, and ſave thee from
+theſe things that ſhall come upon
+thee.</p>
+                  <p>But I pray what Aſtrologers, &amp;c.
+were theſe? were they not the ſu<g ref="char:EOLhyphen"/>perſtitious
+Heathen, ſuch as in the
+former verſe were called Inchan<g ref="char:EOLhyphen"/>ters,
+and South-ſayers, who did
+put a vaine confidence in ſuch
+things.</p>
+                  <p>And then he comes to Philoſo<g ref="char:EOLhyphen"/>phers,
+and tells us what <hi>Franciſeus
+Patr. de regno, lib.</hi> 2. <hi>cap.</hi> 16. ſpeakes
+of <hi>Julius Caeſar,</hi> who of all others
+was the moſt skilfull in the Art of
+Aſtronomy, by which he had know<g ref="char:EOLhyphen"/>ledge
+<pb n="53" facs="tcp:119386:33"/>
+to predict his owne fate, but
+he had not the skill to avoid it. But
+what is this to the purpoſe againſt
+Aſtrology?</p>
+                  <p>And then he tells us what <hi>Ariſtotle</hi>
+ſaith in <hi>lib.</hi> 12. <hi>Metaph. cap.</hi> 4. Aſtro<g ref="char:EOLhyphen"/>logy
+hath a ſpeculation into a ſub<g ref="char:EOLhyphen"/>lime
+ſubſtance, <hi>ſempiternall</hi> and <hi>ſenſi<g ref="char:EOLhyphen"/>ble,</hi>
+which is <hi>Heaven;</hi> and what then,
+doth this make any thing againſt
+Aſtrology as he pretends?</p>
+                  <p>Thus for the defence of Predicti<g ref="char:EOLhyphen"/>ons,
+I come now to the</p>
+               </div>
+               <div n="fence" type="part">
+                  <head>2 Fence</head>
+                  <p>Or bounds and limits of Predi<g ref="char:EOLhyphen"/>ctions;
+I ſay they muſt keepe within
+bounds, they muſt goe ſo farre and
+no further; they muſt be according
+to the <hi>nature</hi> and <hi>quality</hi> of thoſe
+knowne <hi>influences.</hi>] An Aſtrologer
+muſt not ſtraine himſelfe too high,
+that was the fault of the Heathen,
+and therefore in Scripture repro<g ref="char:EOLhyphen"/>ved.</p>
+                  <p>Goe to the very eſſence of Aſtro<g ref="char:EOLhyphen"/>logy,
+and you ſhall finde that it
+<pb n="54" facs="tcp:119386:34"/>
+doth <hi>reaſonably demonſtrate</hi> the ope<g ref="char:EOLhyphen"/>rations
+and effects of the naturall
+beames of light, and influences of the
+Starres and Planets in every <hi>Ele<g ref="char:EOLhyphen"/>ment,</hi>
+and elementall body at all
+times, in any Horizon aſſigned.</p>
+                  <p>By it we learne the riſing and ſet<g ref="char:EOLhyphen"/>ing
+of Starres mentioned by <hi>Heſiod,</hi>
+by <hi>Virgill</hi> in his <hi>Georgicks,</hi> by <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi>
+in his <hi>Medicinall Sphere</hi> to <hi>Per<g ref="char:EOLhyphen"/>dicea</hi>
+King of the <hi>Macedonians,</hi> by
+<hi>Diocles</hi> to King <hi>Antigonus,</hi> and by
+other famous Philoſophers; a thing
+neceſſary for manuring of the earth,
+for Navigation, for the alteration of
+mans body being whole, ſick, woun<g ref="char:EOLhyphen"/>ded,
+or bruiſed.</p>
+                  <p>
+                     <hi>Mercerus</hi> and <hi>Iunius</hi> allow of foure
+lawfull uſes of the Coeleſtiall bodies,
+to which Dr. <hi>Willet</hi> upon 1 <hi>Gen.</hi> doth
+conſent, and they be theſe: Firſt, to
+diſtinguiſh day and night, light and
+darkneſſe. 2. To be for ſignes of
+weather. 3. To ſerve for ſignes and
+ſeaſons, as weekes, daies, and yeares.
+4 To give influence by their heat,
+light, and motion to theſe inferiour
+parts. Indeed ſuperſtitious Aſtrology
+<pb n="55" facs="tcp:119386:34"/>
+as <hi>Willet</hi> calls it, is not by any deni<g ref="char:EOLhyphen"/>ed,
+but to be (as he faith:) repugnant
+to Scripture, againſt reaſon, vaine
+and impious, and ſuch Aſtology I
+am ſure Maſter <hi>Lilly</hi> doth utterly ab<g ref="char:EOLhyphen"/>horre;
+and no ſuch is his Aſtrology
+ſpecified and written in his Booke,
+called <hi>The Propheticall Merlin,</hi> as ſome
+have vainly and fooliſhly imagined.
+For his calculations of Nativities,
+and finding out things that are loſt<g ref="char:punc">▪</g>
+&amp;c. which Dr. <hi>Willet</hi> comprehends
+under ſuperſtitious Aſtrology, is not
+any way practiſed by him in the leaſt
+kind of ſuperſtition; for the manner
+of his practiſe, I would wiſh this
+<hi>Antagoniſt</hi> to looke into his <hi>Anglicus</hi>
+for 1646. and he ſhall finde him free
+from ſuperſtition; and I would wiſh
+thoſe that read his Predictions there
+would firſt read his Epiſtle to the
+Reader, and I am perſwaded they
+will wave their opinion: But it is the
+manner of our ignorant Cenſurers
+to read the Booke, but leape over the
+Epiſtle, thinking that that belongs
+not to them; but I am loath to di<g ref="char:EOLhyphen"/>greſſe
+too farre though Rhotoricke
+<pb n="56" facs="tcp:119386:35"/>
+allow of it. But for other Objecti<g ref="char:EOLhyphen"/>ons,
+and likewiſe ſomewhat what
+that famous divine <hi>Meluncthon</hi> writes
+concerning judiciall Aſtrology, I
+have in part ſhewne before in my ge<g ref="char:EOLhyphen"/>nerall
+Epiſtle, and therefore I for<g ref="char:EOLhyphen"/>beare
+to reiterate it, and come to
+ſpeake two or three words concer<g ref="char:EOLhyphen"/>ning
+the laſt Propoſition, and ſo
+conclude.</p>
+                  <p>5 That it is not unlawfull to call the
+Starres by ſuch and ſuch names. as <hi>Pley<g ref="char:EOLhyphen"/>ades,
+Orion, Arcturus, &amp;c.</hi>
+                  </p>
+                  <p>Were it ſuperſtition, the Scriptures
+would not uſe the words, <hi>Pſal.</hi> 147.
+God is there ſaid <hi>to number the Starres,
+and call them all by their names:</hi> And
+what names? Some are upon Record
+in the Scripture, <hi>Job, Amos,</hi> and
+others make mention of <hi>Arcturus,
+Orion, Pleyades, Heſperus,</hi> and <hi>Lucifer;
+Homer</hi> and <hi>Heſiod</hi> mentioned them,
+eſpecially <hi>Syrius,</hi> otherwiſe called
+the great <hi>Dog.</hi> The knowledge of
+their names as well as of their na<g ref="char:EOLhyphen"/>tures
+is very requiſite and uſefull;
+Seamen have it by experience in di<g ref="char:EOLhyphen"/>recting
+their courſe, as <hi>Aratus</hi> who
+<pb n="57" facs="tcp:119386:35"/>
+was a <hi>Grecian</hi> Poet, and an Aſtrolo<g ref="char:EOLhyphen"/>ger,
+and <hi>Ovid</hi> 3. <hi>Faſtorum</hi> have ob<g ref="char:EOLhyphen"/>ſerved,
+where he ſaith thus:</p>
+                  <q>
+                     <l>Eſſe duas arctos, quarum Cynoſura
+petatur,</l>
+                     <l>Sidoniis Helieen Graia carina notet.</l>
+                  </q>
+                  <p>For this cauſe <hi>Virgil</hi> in 1 <hi>lib. Georg.</hi>
+thinkes that the skilfull Mariner by
+the continuall obſervation of ſuch
+Starres as might fitly direct him in
+his courſe, gave them fit names, for
+thus he ſaith:</p>
+                  <q>
+                     <l>Navita tum ſtellis m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>meros &amp; nomina
+fecit.</l>
+                  </q>
+                  <p>The Mariner hath both numbred
+and named the Starres, but you read
+in 147. <hi>Pſalme,</hi> that God did this
+himſelfe.</p>
+                  <p>Sure then it can be no ſuperſtition
+in theſe times of a great diſcovery of
+lights to call the Starres by their
+names, though we finde them not all
+in holy Writ.</p>
+                  <p>Now to conclude, let the igno<g ref="char:EOLhyphen"/>rant,
+<pb n="58" facs="tcp:119386:36"/>
+envious, and cenſorious conſi<g ref="char:EOLhyphen"/>der
+well what I have written and I
+hope they will be ſilent; I hope at
+leaſt have no cauſe further to tra<g ref="char:EOLhyphen"/>duce;
+and pray to God that the
+Judgements depending in <hi>England</hi>
+may be removed, and the good
+to the Parliament Predicted may
+fully be accompliſhed: Nothing is
+certainely (you ſee) Predicted
+excluding the providence of the
+wiſe Governour of ſublunary crea<g ref="char:EOLhyphen"/>tures.
+Here Maſter <hi>Lilly</hi> ſpeakes for
+himſelfe, and I hope the mouth
+of the ſly Detractour will be ſtop<g ref="char:EOLhyphen"/>ped.
+In his <hi>Anglicus</hi> for 1646.<note place="margin">Mr. <hi>Lilly,</hi> Anglicus 1646.</note> in
+Marches obſervations, where he
+writes thus; <hi>I ſpeake as a man that
+grounds his conjecture upon naturall
+cauſes: poſitively I conclude not, that's
+an act belonging to Gods Providence;</hi>
+Well weigh likewiſe the places
+ſubjected to the twelve ſignes in
+Maſter <hi>Booke<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</hi> Almanack for 1644.
+and I hope thoſe that will not
+underſtand will be mute, and thoſe
+that cannot apprehend will admire;
+and then I hope Maſter <hi>Lillies Super<g ref="char:EOLhyphen"/>naturall
+<pb n="59" facs="tcp:119386:36"/>
+apparitions</hi> will ſtartle the
+ignorant, his <hi>Collections of Pro<g ref="char:EOLhyphen"/>pheſies</hi>
+will ſilent the envious, and
+his <hi>Propheticall Merlin</hi> will curbe
+the cenſorious. Pray then to God
+to <hi>avert</hi> his Judgements, and to con<g ref="char:EOLhyphen"/>vert
+all to the good predicted for the
+true happineſſe and proſperity,
+and honour of <hi>Englands</hi>
+PARLIAMENT.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
